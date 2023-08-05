@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>oss | Sumon Biswas</title>
-    <link>https://sumonbis.github.io/tag/oss/</link>
-      <atom:link href="https://sumonbis.github.io/tag/oss/index.xml" rel="self" type="application/rss+xml" />
+    <title>oss | Farhad Hossain</title>
+    <link>https://frdhsn.github.io/tag/oss/</link>
+      <atom:link href="https://frdhsn.github.io/tag/oss/index.xml" rel="self" type="application/rss+xml" />
     <description>oss</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Sumon Biswas</copyright><lastBuildDate>Sun, 26 May 2019 21:25:33 -0500</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Farhad Hossain</copyright><lastBuildDate>Sun, 26 May 2019 21:25:33 -0500</lastBuildDate>
     <image>
-      <url>https://sumonbis.github.io/media/logo.svg</url>
+      <url>https://frdhsn.github.io/media/logo.svg</url>
       <title>oss</title>
-      <link>https://sumonbis.github.io/tag/oss/</link>
+      <link>https://frdhsn.github.io/tag/oss/</link>
     </image>
     
     <item>
       <title>Boa Meets Python: A Boa Dataset of Data Science Software in Python Language</title>
-      <link>https://sumonbis.github.io/publication/msr19/</link>
+      <link>https://frdhsn.github.io/publication/msr19/</link>
       <pubDate>Sun, 26 May 2019 21:25:33 -0500</pubDate>
-      <guid>https://sumonbis.github.io/publication/msr19/</guid>
+      <guid>https://frdhsn.github.io/publication/msr19/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

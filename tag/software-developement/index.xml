@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Software-developement | Sumon Biswas</title>
-    <link>https://sumonbis.github.io/tag/software-developement/</link>
-      <atom:link href="https://sumonbis.github.io/tag/software-developement/index.xml" rel="self" type="application/rss+xml" />
+    <title>Software-developement | Farhad Hossain</title>
+    <link>https://frdhsn.github.io/tag/software-developement/</link>
+      <atom:link href="https://frdhsn.github.io/tag/software-developement/index.xml" rel="self" type="application/rss+xml" />
     <description>Software-developement</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Sumon Biswas</copyright><lastBuildDate>Sun, 20 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Farhad Hossain</copyright><lastBuildDate>Sun, 20 Apr 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sumonbis.github.io/media/logo.svg</url>
+      <url>https://frdhsn.github.io/media/logo.svg</url>
       <title>Software-developement</title>
-      <link>https://sumonbis.github.io/tag/software-developement/</link>
+      <link>https://frdhsn.github.io/tag/software-developement/</link>
     </image>
     
     <item>
       <title>Doctors Window (A solution for Doctors and Patients)</title>
-      <link>https://sumonbis.github.io/academic-project/doctors-window/</link>
+      <link>https://frdhsn.github.io/academic-project/doctors-window/</link>
       <pubDate>Sun, 20 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://sumonbis.github.io/academic-project/doctors-window/</guid>
+      <guid>https://frdhsn.github.io/academic-project/doctors-window/</guid>
       <description>&lt;p&gt;This project contains one desktop app (for doctors) and two client side app (for doctors and patients).&lt;/p&gt;
 &lt;h2 id=&#34;desktop-app&#34;&gt;Desktop App&lt;/h2&gt;
 &lt;p&gt;A windows application software has been built which will be installed on doctors’ computer. This software is a standalone one and can be maintained by one single doctor.&lt;/p&gt;
@@ -43,7 +43,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/sumonbis/DoctorsWindow/master/Desktop%20App/screens/batch2.png&#34; alt=&#34;Desktop app&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/frdhsn/DoctorsWindow/master/Desktop%20App/screens/batch2.png&#34; alt=&#34;Desktop app&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;electronic-prescription-module&#34;&gt;Electronic Prescription Module&lt;/h3&gt;
@@ -72,7 +72,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/sumonbis/DoctorsWindow/master/Desktop%20App/screens/batch1.png&#34; alt=&#34;Desktop app&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/frdhsn/DoctorsWindow/master/Desktop%20App/screens/batch1.png&#34; alt=&#34;Desktop app&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;patients-scheduling-and-queue-management-using-sms&#34;&gt;Patient’s Scheduling and Queue Management Using SMS&lt;/h3&gt;
@@ -113,7 +113,7 @@ his/her name, designation, specialty, institution, address, contact number and t
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/sumonbis/DoctorsWindow/master/Android%20App/screens/Doctor-Side%20Application.png&#34; alt=&#34;Doctors side app&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/frdhsn/DoctorsWindow/master/Android%20App/screens/Doctor-Side%20Application.png&#34; alt=&#34;Doctors side app&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h3 id=&#34;2-patients-window&#34;&gt;2. Patient’s Window&lt;/h3&gt;
@@ -136,7 +136,7 @@ his/her name, designation, specialty, institution, address, contact number and t
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/sumonbis/DoctorsWindow/master/Android%20App/screens/Patient-Side%20Application.png&#34; alt=&#34;Patient side app&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/frdhsn/DoctorsWindow/master/Android%20App/screens/Patient-Side%20Application.png&#34; alt=&#34;Patient side app&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 </description>

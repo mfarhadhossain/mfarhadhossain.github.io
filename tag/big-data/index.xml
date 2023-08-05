@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>big-data | Sumon Biswas</title>
-    <link>https://sumonbis.github.io/tag/big-data/</link>
-      <atom:link href="https://sumonbis.github.io/tag/big-data/index.xml" rel="self" type="application/rss+xml" />
+    <title>big-data | Farhad Hossain</title>
+    <link>https://frdhsn.github.io/tag/big-data/</link>
+      <atom:link href="https://frdhsn.github.io/tag/big-data/index.xml" rel="self" type="application/rss+xml" />
     <description>big-data</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Sumon Biswas</copyright><lastBuildDate>Sun, 05 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Farhad Hossain</copyright><lastBuildDate>Sun, 05 Nov 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sumonbis.github.io/media/logo.svg</url>
+      <url>https://frdhsn.github.io/media/logo.svg</url>
       <title>big-data</title>
-      <link>https://sumonbis.github.io/tag/big-data/</link>
+      <link>https://frdhsn.github.io/tag/big-data/</link>
     </image>
     
     <item>
       <title>Naive Bayes Classifier for Text Documents</title>
-      <link>https://sumonbis.github.io/academic-project/naive-bayes/</link>
+      <link>https://frdhsn.github.io/academic-project/naive-bayes/</link>
       <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
-      <guid>https://sumonbis.github.io/academic-project/naive-bayes/</guid>
+      <guid>https://frdhsn.github.io/academic-project/naive-bayes/</guid>
       <description>&lt;h2 id=&#34;implementation&#34;&gt;Implementation&lt;/h2&gt;
 &lt;p&gt;I have implemented Java program that takes the six files as input, builds a Naive Bayes classifier and outputs relevant statistics. I have built the Naive Bayes classifier from the training data (train label.csv, train data.csv), then evaluated its performance on the testing data (test label.csv, test data.csv).&lt;/p&gt;
 &lt;h2 id=&#34;dataset&#34;&gt;Dataset&lt;/h2&gt;
@@ -31,7 +31,7 @@ i. cd to the directory.
 ii. Compile : $ javac *.java
 iii. Run: $ java NaiveBayes vocabulary.txt map.csv train_label.csv train_data.csv test_label.csv test_data.csv&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;The detail results and output can be found here: &lt;a href=&#34;https://github.com/sumonbis/NaiveBayesClassifier/blob/master/Result.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/sumonbis/NaiveBayesClassifier/blob/master/Result.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The detail results and output can be found here: &lt;a href=&#34;https://github.com/frdhsn/NaiveBayesClassifier/blob/master/Result.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/frdhsn/NaiveBayesClassifier/blob/master/Result.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;Ken Lang, Newsweeder: Learning to filter netnews, Proceedings of the Twelfth International Conference on Machine Learning, 331-339 (1995).&lt;/li&gt;
@@ -41,11 +41,11 @@ iii. Run: $ java NaiveBayes vocabulary.txt map.csv train_label.csv train_data.cs
     
     <item>
       <title>Near Duplicate Detection Using Simhash</title>
-      <link>https://sumonbis.github.io/academic-project/simhash/</link>
+      <link>https://frdhsn.github.io/academic-project/simhash/</link>
       <pubDate>Tue, 10 Oct 2017 00:00:00 +0000</pubDate>
-      <guid>https://sumonbis.github.io/academic-project/simhash/</guid>
+      <guid>https://frdhsn.github.io/academic-project/simhash/</guid>
       <description>&lt;p&gt;Near duplicate detection in a large collection of files is a well-studied problem in data science. Many Locality Sensitive Hashing (LSH) algorithms have been recently developed to solve this problem. Among them simhash is a very efficient LSH algorithm that uses probabilistic method to generate similar fingerprints for similar objects. In this project, we have implemented simhash algorithm to evaluate approximate cosine similarity between two documents from a large collection of files. We have preprocessed the documents, created word vectors with weight and then implemented simhash algorithm to generate 64-bit fingerprint of each document. Then we have implemented block permuted hamming search in our fingerprint space. Block permuted Hamming search helps us to reduce the time to find similar pairs significantly. However, we have to consider a few false negatives in this result. By designing the block permutation in a better way, we can reduce the false negative rate.&lt;/p&gt;
-&lt;p&gt;Detail project report: &lt;a href=&#34;https://github.com/sumonbis/NearDuplicateDetection/blob/master/Report.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/sumonbis/NearDuplicateDetection/blob/master/Report.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Detail project report: &lt;a href=&#34;https://github.com/frdhsn/NearDuplicateDetection/blob/master/Report.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/frdhsn/NearDuplicateDetection/blob/master/Report.pdf&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&#34;problem-definition&#34;&gt;Problem Definition&lt;/h2&gt;
 &lt;p&gt;Suppose, we have millions of documents and given a new document we have to find all the near duplicates (e.g., 95% or more similar) from the collection in a reasonable amount of time. We can divide the problem into two parts: how to measure similarity between two documents and how to find the similar documents form a large collection efficiently? Therefore, our goal is to solve the following problems:&lt;/p&gt;
 &lt;ol&gt;

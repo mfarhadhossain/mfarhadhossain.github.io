@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Sumon Biswas</title>
-    <link>https://sumonbis.github.io/post/</link>
-      <atom:link href="https://sumonbis.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <title>Posts | Farhad Hossain</title>
+    <link>https://frdhsn.github.io/post/</link>
+      <atom:link href="https://frdhsn.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Sumon Biswas</copyright><lastBuildDate>Sat, 06 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Farhad Hossain</copyright><lastBuildDate>Sat, 06 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://sumonbis.github.io/media/logo.svg</url>
+      <url>https://frdhsn.github.io/media/logo.svg</url>
       <title>Posts</title>
-      <link>https://sumonbis.github.io/post/</link>
+      <link>https://frdhsn.github.io/post/</link>
     </image>
     
     <item>
       <title>SPLASH 2021 Retrospective: Organizing a Premier PL Conference in Hybrid</title>
-      <link>https://sumonbis.github.io/post/splash/</link>
+      <link>https://frdhsn.github.io/post/splash/</link>
       <pubDate>Sat, 06 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://sumonbis.github.io/post/splash/</guid>
+      <guid>https://frdhsn.github.io/post/splash/</guid>
       <description>&lt;p&gt;I served as an Accessibility Chair in the organizing committee of the &lt;a href=&#34;https://2020.splashcon.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SPLASH conference in 2020&lt;/a&gt;.
 SPLASH is the premier conference on the applications of programming languages- at the intersection of programming languages and software engineering. It hosted the &lt;strong&gt;OOPSLA, ECOOP, and other co-located events&lt;/strong&gt;. Because of the pandemic, SPLASH held in 2020 into a virtual setting.
 I facilitated the audio-video (AV) accessibility support for the authors and audiences. Especially, I enabled closed-captions for all the talks in the conference for their talks for better accessibility. I provided instructions and tutorials to all the authors for creation of closed captions of their talks. Despite several challenges of correction and synchronization, I was able to provide accessibility support to the conference.&lt;/p&gt;
@@ -27,16 +27,16 @@ I facilitated the audio-video (AV) accessibility support for the authors and aud
     
     <item>
       <title>Our Research Identifies Unfairness in the Component Level of AI Based Software</title>
-      <link>https://sumonbis.github.io/post/fair-pipeline/</link>
+      <link>https://frdhsn.github.io/post/fair-pipeline/</link>
       <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://sumonbis.github.io/post/fair-pipeline/</guid>
+      <guid>https://frdhsn.github.io/post/fair-pipeline/</guid>
       <description>&lt;p&gt;The government, academia, industry are increasingly employing artificial intelligence (AI) systems in decision making. With the availability of numerous data, AI systems are becoming more popular in various sectors. Many of these systems affect human lives directly in one way or another. Our research highlighted that many of such real-world machine learning (ML) models exhibit unfairness with respect to certain societal groups of race, sex or age. In the last few years, our software design lab employed significant effort to identify fairness in machine learning algorithms and mitigate that effectively. Recent result shows that several components in an ML pipeline are influencing the predictive result that is unfair to minority groups such as dark-skinned people or female.&lt;/p&gt;
 &lt;p&gt;I and my advisor Hridesh Rajan are working in the D4 Institute at Iowa State which broadly focuses on increasing the dependability of AI-based systems.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;The accuracy of a model is not always telling the whole story. How much bias the model propagates or how much we can trust the prediction is a big question.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;These AI-based software are being used in hiring employees, approving loans, criminal sentencing, which should be more accountable and explainable. Analyzing the behavior of ML pipeline in component level would help towards that goal.
-&lt;a href=&#34;https://sumonbis.github.io/publication/esec-fse21/&#34;&gt;Our paper proposing a novel method to identify unfairness of ML components&lt;/a&gt; has been recently accepted in &lt;a href=&#34;https://2021.esec-fse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESEC/FSE 2021&lt;/a&gt;, which is one of top software engineering conference and internationally renowned forum for researchers, practitioners, and educators.&lt;/p&gt;
+&lt;a href=&#34;https://frdhsn.github.io/publication/esec-fse21/&#34;&gt;Our paper proposing a novel method to identify unfairness of ML components&lt;/a&gt; has been recently accepted in &lt;a href=&#34;https://2021.esec-fse.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ESEC/FSE 2021&lt;/a&gt;, which is one of top software engineering conference and internationally renowned forum for researchers, practitioners, and educators.&lt;/p&gt;
 &lt;p&gt;In the paper, we proposed a causal method to measure the fairness of different stages in ML pipeline.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Although some recent work proposed metrics to quantify the bias in the predictions, ML software is complex having several stages. Our method could effectively identify the data transformers that caused unfairness in such software.&lt;/p&gt;
@@ -49,9 +49,9 @@ I facilitated the audio-video (AV) accessibility support for the authors and aud
     
     <item>
       <title>How to Add Closed Captions in Your Video Talk</title>
-      <link>https://sumonbis.github.io/post/closed-captions/</link>
+      <link>https://frdhsn.github.io/post/closed-captions/</link>
       <pubDate>Tue, 13 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://sumonbis.github.io/post/closed-captions/</guid>
+      <guid>https://frdhsn.github.io/post/closed-captions/</guid>
       <description>&lt;p&gt;YouTube Studio can be used to generate closed captions for your talk by following these simple steps:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -84,7 +84,7 @@ I facilitated the audio-video (AV) accessibility support for the authors and aud
                /post/closed-captions/upload_hu08fd69e9e84e7425239b423688b7ff4a_12001_14a869470a1b89444bd8053e0b9be2c5.png 400w,
                /post/closed-captions/upload_hu08fd69e9e84e7425239b423688b7ff4a_12001_bacc2bca902070aa18ce762b949e71d9.png 760w,
                /post/closed-captions/upload_hu08fd69e9e84e7425239b423688b7ff4a_12001_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://sumonbis.github.io/post/closed-captions/upload_hu08fd69e9e84e7425239b423688b7ff4a_12001_14a869470a1b89444bd8053e0b9be2c5.png&#34;
+               src=&#34;https://frdhsn.github.io/post/closed-captions/upload_hu08fd69e9e84e7425239b423688b7ff4a_12001_14a869470a1b89444bd8053e0b9be2c5.png&#34;
                width=&#34;331&#34;
                height=&#34;93&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -113,7 +113,7 @@ I facilitated the audio-video (AV) accessibility support for the authors and aud
 &lt;figure  id=&#34;figure-steps-for-generating-captions-in-youtube-studio&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Steps for generating captions in YouTube Studio&#34;
-           src=&#34;https://sumonbis.github.io/post/closed-captions/process.gif&#34;
+           src=&#34;https://frdhsn.github.io/post/closed-captions/process.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
       Steps for generating captions in YouTube Studio
@@ -141,7 +141,7 @@ I facilitated the audio-video (AV) accessibility support for the authors and aud
                /post/closed-captions/editing_hudc065b6217f6da97f5e9c3d73465d578_22345_3d670f216c10cc93f023eaaf0526bb8b.png 400w,
                /post/closed-captions/editing_hudc065b6217f6da97f5e9c3d73465d578_22345_b48179162dd89ab02128900adb791046.png 760w,
                /post/closed-captions/editing_hudc065b6217f6da97f5e9c3d73465d578_22345_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://sumonbis.github.io/post/closed-captions/editing_hudc065b6217f6da97f5e9c3d73465d578_22345_3d670f216c10cc93f023eaaf0526bb8b.png&#34;
+               src=&#34;https://frdhsn.github.io/post/closed-captions/editing_hudc065b6217f6da97f5e9c3d73465d578_22345_3d670f216c10cc93f023eaaf0526bb8b.png&#34;
                width=&#34;760&#34;
                height=&#34;115&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -176,7 +176,7 @@ I facilitated the audio-video (AV) accessibility support for the authors and aud
                /post/closed-captions/subtitles_hu497f034dd612990d1e15ac6f0579d693_42581_e90dbf9fa7cfe5ec320ad045a2288857.png 400w,
                /post/closed-captions/subtitles_hu497f034dd612990d1e15ac6f0579d693_42581_5af088a46693f0902883d5f0a5929749.png 760w,
                /post/closed-captions/subtitles_hu497f034dd612990d1e15ac6f0579d693_42581_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://sumonbis.github.io/post/closed-captions/subtitles_hu497f034dd612990d1e15ac6f0579d693_42581_e90dbf9fa7cfe5ec320ad045a2288857.png&#34;
+               src=&#34;https://frdhsn.github.io/post/closed-captions/subtitles_hu497f034dd612990d1e15ac6f0579d693_42581_e90dbf9fa7cfe5ec320ad045a2288857.png&#34;
                width=&#34;760&#34;
                height=&#34;212&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -210,7 +210,7 @@ I facilitated the audio-video (AV) accessibility support for the authors and aud
                /post/closed-captions/timing_hu8393fbf032e093c702c75fdff53cba05_64692_2221ea3bec630bb61bd1f5818125c1bf.png 400w,
                /post/closed-captions/timing_hu8393fbf032e093c702c75fdff53cba05_64692_1c789b521e0ff1e46e3d1ffaa14ec2cc.png 760w,
                /post/closed-captions/timing_hu8393fbf032e093c702c75fdff53cba05_64692_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://sumonbis.github.io/post/closed-captions/timing_hu8393fbf032e093c702c75fdff53cba05_64692_2221ea3bec630bb61bd1f5818125c1bf.png&#34;
+               src=&#34;https://frdhsn.github.io/post/closed-captions/timing_hu8393fbf032e093c702c75fdff53cba05_64692_2221ea3bec630bb61bd1f5818125c1bf.png&#34;
                width=&#34;529&#34;
                height=&#34;308&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -251,14 +251,14 @@ I facilitated the audio-video (AV) accessibility support for the authors and aud
     
     <item>
       <title>Being a Part of A Premier Data Science Research Hub</title>
-      <link>https://sumonbis.github.io/post/d4-institute/</link>
+      <link>https://frdhsn.github.io/post/d4-institute/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://sumonbis.github.io/post/d4-institute/</guid>
+      <guid>https://frdhsn.github.io/post/d4-institute/</guid>
       <description>&lt;p&gt;D4 Institute is an interdisciplinary data science hub at Iowa State university where professors, graduate students, REU students, and researchers from Computer Science, Electrical Engineering, Mathematics, Statistics collaborate to ensure the dependability of data science.&lt;/p&gt;
 &lt;p&gt;D4 institute took about four year to assemble and then funded by NSF TRIPOD grant in 2020. My advisor Hridesh Rajan leads the project as an PI. I have been involved with D4 from the beginning of writing the NSF proposal. Afterwards, I continue to contribute as a graduate researcher in the project.&lt;/p&gt;
 &lt;p&gt;The computer science magazine Atanasoff Today featured out work in the D4 Institute. The magazine is available in here: &lt;a href=&#34;https://www.cs.iastate.edu/atanasoff-today-piecing-together-premier-data-science-research-hub&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.cs.iastate.edu/atanasoff-today-piecing-together-premier-data-science-research-hub&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Sumon Biswas (’21 computer science, Ph.D.) was immediately drawn to Iowa State’s computer science program, in part because of Rajan’s group. Research opportunities related to the data science field matched nicely with his career goals. Biswas was particularly drawn to the group’s commitment to researching the data science pipeline.&lt;/p&gt;
+&lt;p&gt;Farhad Hossain (’21 computer science, Ph.D.) was immediately drawn to Iowa State’s computer science program, in part because of Rajan’s group. Research opportunities related to the data science field matched nicely with his career goals. Biswas was particularly drawn to the group’s commitment to researching the data science pipeline.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;The central goal of the project is to ensure the dependability of data-driven software. With the growing interests in AI and machine learning, we need to focus on the safety, security, fairness, robustness, and more critical properties of such systems.&lt;/p&gt;
 &lt;blockquote&gt;
@@ -285,9 +285,9 @@ I facilitated the audio-video (AV) accessibility support for the authors and aud
     
     <item>
       <title>Boa for Big-Code Mining and Large-Scale Static Analysis</title>
-      <link>https://sumonbis.github.io/post/boa-tutorial/</link>
+      <link>https://frdhsn.github.io/post/boa-tutorial/</link>
       <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://sumonbis.github.io/post/boa-tutorial/</guid>
+      <guid>https://frdhsn.github.io/post/boa-tutorial/</guid>
       <description>&lt;p&gt;This tutorial will describe how to create your own Boa dataset for specific projects in Github and run Boa queries on that dataset locally. We will use command line and Eclipse IDE for that purpose.&lt;/p&gt;
 &lt;h2 id=&#34;prerequisite&#34;&gt;Prerequisite&lt;/h2&gt;
 &lt;p&gt;You need to have following already installed in your system:&lt;/p&gt;
@@ -327,7 +327,7 @@ I facilitated the audio-video (AV) accessibility support for the authors and aud
                /post/boa-tutorial/import_hu18ade01ed00817a4bb1fa04cbf19de50_100306_8b8e2b26342e735bcc4f07d6f49124d5.png 400w,
                /post/boa-tutorial/import_hu18ade01ed00817a4bb1fa04cbf19de50_100306_36ddbde6110206d333a9f39ed372eb8e.png 760w,
                /post/boa-tutorial/import_hu18ade01ed00817a4bb1fa04cbf19de50_100306_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://sumonbis.github.io/post/boa-tutorial/import_hu18ade01ed00817a4bb1fa04cbf19de50_100306_8b8e2b26342e735bcc4f07d6f49124d5.png&#34;
+               src=&#34;https://frdhsn.github.io/post/boa-tutorial/import_hu18ade01ed00817a4bb1fa04cbf19de50_100306_8b8e2b26342e735bcc4f07d6f49124d5.png&#34;
                width=&#34;760&#34;
                height=&#34;529&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -361,7 +361,7 @@ I facilitated the audio-video (AV) accessibility support for the authors and aud
                /post/boa-tutorial/after_config_huc30bb9b6770fa560d57158247648e19e_254071_0f267088009d39f4d6144eed5cf2e29e.png 400w,
                /post/boa-tutorial/after_config_huc30bb9b6770fa560d57158247648e19e_254071_8beb014657c4a32573ee7449d578aefd.png 760w,
                /post/boa-tutorial/after_config_huc30bb9b6770fa560d57158247648e19e_254071_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://sumonbis.github.io/post/boa-tutorial/after_config_huc30bb9b6770fa560d57158247648e19e_254071_0f267088009d39f4d6144eed5cf2e29e.png&#34;
+               src=&#34;https://frdhsn.github.io/post/boa-tutorial/after_config_huc30bb9b6770fa560d57158247648e19e_254071_0f267088009d39f4d6144eed5cf2e29e.png&#34;
                width=&#34;760&#34;
                height=&#34;438&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -403,7 +403,7 @@ I facilitated the audio-video (AV) accessibility support for the authors and aud
                /post/boa-tutorial/json_looklike_hu2ab2130319f6cfb527ad0ef2986ae93a_168440_f49bec1fdd27f7b5c178995e13009bd9.png 400w,
                /post/boa-tutorial/json_looklike_hu2ab2130319f6cfb527ad0ef2986ae93a_168440_20af3c33d6658053b2194ed22c8b5fb8.png 760w,
                /post/boa-tutorial/json_looklike_hu2ab2130319f6cfb527ad0ef2986ae93a_168440_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://sumonbis.github.io/post/boa-tutorial/json_looklike_hu2ab2130319f6cfb527ad0ef2986ae93a_168440_f49bec1fdd27f7b5c178995e13009bd9.png&#34;
+               src=&#34;https://frdhsn.github.io/post/boa-tutorial/json_looklike_hu2ab2130319f6cfb527ad0ef2986ae93a_168440_f49bec1fdd27f7b5c178995e13009bd9.png&#34;
                width=&#34;600&#34;
                height=&#34;395&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -438,7 +438,7 @@ I facilitated the audio-video (AV) accessibility support for the authors and aud
                /post/boa-tutorial/datagen_hu949fdfc0778c85be9ad23ef2b524f8af_286100_975fb2b00653598ae3d0aaaf66cd565c.png 400w,
                /post/boa-tutorial/datagen_hu949fdfc0778c85be9ad23ef2b524f8af_286100_a821359fabc7942f9039a41f15b7635b.png 760w,
                /post/boa-tutorial/datagen_hu949fdfc0778c85be9ad23ef2b524f8af_286100_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://sumonbis.github.io/post/boa-tutorial/datagen_hu949fdfc0778c85be9ad23ef2b524f8af_286100_975fb2b00653598ae3d0aaaf66cd565c.png&#34;
+               src=&#34;https://frdhsn.github.io/post/boa-tutorial/datagen_hu949fdfc0778c85be9ad23ef2b524f8af_286100_975fb2b00653598ae3d0aaaf66cd565c.png&#34;
                width=&#34;718&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -473,7 +473,7 @@ I facilitated the audio-video (AV) accessibility support for the authors and aud
                 /post/boa-tutorial/datagenparam_hu0ab8dbc86191e859d9cf2dbaf834ceed_190851_9bcc7799a517c20c420a928e34056f90.png 400w,
                 /post/boa-tutorial/datagenparam_hu0ab8dbc86191e859d9cf2dbaf834ceed_190851_f15015d26c48b89e9bc0530707a356ba.png 760w,
                 /post/boa-tutorial/datagenparam_hu0ab8dbc86191e859d9cf2dbaf834ceed_190851_1200x1200_fit_lanczos_3.png 1200w&#34;
-                src=&#34;https://sumonbis.github.io/post/boa-tutorial/datagenparam_hu0ab8dbc86191e859d9cf2dbaf834ceed_190851_9bcc7799a517c20c420a928e34056f90.png&#34;
+                src=&#34;https://frdhsn.github.io/post/boa-tutorial/datagenparam_hu0ab8dbc86191e859d9cf2dbaf834ceed_190851_9bcc7799a517c20c420a928e34056f90.png&#34;
                 width=&#34;760&#34;
                 height=&#34;650&#34;
                 loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -516,7 +516,7 @@ I facilitated the audio-video (AV) accessibility support for the authors and aud
                 /post/boa-tutorial/evalparam_hue8c49e7c5cd92ffdb7d8309808005f8d_259498_bd1849e8859a8e0de8f2553ea8b570e1.png 400w,
                 /post/boa-tutorial/evalparam_hue8c49e7c5cd92ffdb7d8309808005f8d_259498_38c40ac3b74c73d956959061788cdf42.png 760w,
                 /post/boa-tutorial/evalparam_hue8c49e7c5cd92ffdb7d8309808005f8d_259498_1200x1200_fit_lanczos_3.png 1200w&#34;
-                src=&#34;https://sumonbis.github.io/post/boa-tutorial/evalparam_hue8c49e7c5cd92ffdb7d8309808005f8d_259498_bd1849e8859a8e0de8f2553ea8b570e1.png&#34;
+                src=&#34;https://frdhsn.github.io/post/boa-tutorial/evalparam_hue8c49e7c5cd92ffdb7d8309808005f8d_259498_bd1849e8859a8e0de8f2553ea8b570e1.png&#34;
                 width=&#34;760&#34;
                 height=&#34;467&#34;
                 loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -540,9 +540,9 @@ I facilitated the audio-video (AV) accessibility support for the authors and aud
     
     <item>
       <title>Computational Thinking of K-12 Outreach Program</title>
-      <link>https://sumonbis.github.io/post/k-12-coding-competition-judge/</link>
+      <link>https://frdhsn.github.io/post/k-12-coding-competition-judge/</link>
       <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://sumonbis.github.io/post/k-12-coding-competition-judge/</guid>
+      <guid>https://frdhsn.github.io/post/k-12-coding-competition-judge/</guid>
       <description>&lt;p&gt;As part of the K-12 Outreach program, ISU computer science organized Computational Thinking Event this year. I got the opportunity to be a judge of the competition and see the outstanding computational projects developed by bright youngsters!&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Science fair-like format where participants come prepared

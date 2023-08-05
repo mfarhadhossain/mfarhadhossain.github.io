@@ -4,8 +4,270 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56172113-51ed-4ee8-a1a9-127ed0312803" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    <list default="true" id="56172113-51ed-4ee8-a1a9-127ed0312803" name="Changes" comment="#1 make changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/academic-project/dnn-uncertainty/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/academic-project/dnn-uncertainty/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/academic-project/doctors-window/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/academic-project/doctors-window/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/academic-project/encryption-with-bloom-filter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/academic-project/encryption-with-bloom-filter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/academic-project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/academic-project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/academic-project/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/academic-project/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/academic-project/lambda-calculus/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/academic-project/lambda-calculus/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/academic-project/naive-bayes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/academic-project/naive-bayes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/academic-project/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/academic-project/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/academic-project/path-oram/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/academic-project/path-oram/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/academic-project/simhash/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/academic-project/simhash/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/academic-project/social-network/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/academic-project/social-network/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/academic-project/tank-battle/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/academic-project/tank-battle/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authors/admin/avatar_hud7eae2c586a5fa54349584cadd748ca2_104503_200x220_fill_q75_lanczos_center.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/authors/admin/avatar_hud7eae2c586a5fa54349584cadd748ca2_104503_200x220_fill_q75_lanczos_center.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/authors/admin/avatar_hud7eae2c586a5fa54349584cadd748ca2_104503_270x270_fill_q75_lanczos_center.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/authors/admin/avatar_hud7eae2c586a5fa54349584cadd748ca2_104503_270x270_fill_q75_lanczos_center.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/categories/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/conference/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/conference/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/conference/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/category/conference/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/conference/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/conference/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/conference/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/conference/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/courses/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/courses/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/courses/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/category/courses/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/courses/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/courses/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/events/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/events/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/events/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/category/events/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/events/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/events/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/research/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/research/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/research/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/category/research/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/research/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/research/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/tutorial/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/tutorial/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/tutorial/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/category/tutorial/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category/tutorial/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/tutorial/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/advanced-programming/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/courses/advanced-programming/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/fair-pipeline/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/courses/fair-pipeline/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/courses/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/courses/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/courses/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/courses/software-development/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/courses/software-development/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/index.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.webmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/boa-tutorial/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/boa-tutorial/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/closed-captions/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/closed-captions/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/d4-institute/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/d4-institute/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/fair-pipeline/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/fair-pipeline/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/post/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/k-12-coding-competition-judge/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/k-12-coding-competition-judge/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/post/splash/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/splash/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/design-architecture-ds/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/design-architecture-ds/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/empirical-fairness/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/empirical-fairness/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/github-dataset/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/github-dataset/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/mining-ml/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/mining-ml/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/modular-fairness/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/modular-fairness/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication-type/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication-type/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication-type/1/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/publication-type/1/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication-type/1/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication-type/1/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication-type/1/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication-type/1/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/esec-fse20/cite.bib" beforeDir="false" afterPath="$PROJECT_DIR$/publication/esec-fse20/cite.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/esec-fse20/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/esec-fse20/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/esec-fse21/cite.bib" beforeDir="false" afterPath="$PROJECT_DIR$/publication/esec-fse21/cite.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/esec-fse21/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/esec-fse21/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/esec-fse22/cite.bib" beforeDir="false" afterPath="$PROJECT_DIR$/publication/esec-fse22/cite.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/esec-fse22/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/esec-fse22/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/esec-fse23/cite.bib" beforeDir="false" afterPath="$PROJECT_DIR$/publication/esec-fse23/cite.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/esec-fse23/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/esec-fse23/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/iccit14/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/iccit14/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/iceeict15a/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/iceeict15a/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/iceeict15b/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/iceeict15b/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/icse22/cite.bib" beforeDir="false" afterPath="$PROJECT_DIR$/publication/icse22/cite.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/icse22/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/icse22/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/icse23a/cite.bib" beforeDir="false" afterPath="$PROJECT_DIR$/publication/icse23a/cite.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/icse23a/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/icse23a/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/icse23b/cite.bib" beforeDir="false" afterPath="$PROJECT_DIR$/publication/icse23b/cite.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/icse23b/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/icse23b/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/publication/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/msr19/cite.bib" beforeDir="false" afterPath="$PROJECT_DIR$/publication/msr19/cite.bib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication/msr19/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/msr19/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication_types/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication_types/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication_types/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/publication_types/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/publication_types/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication_types/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/aco/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/aco/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/aco/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/aco/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/aco/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/aco/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/android/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/android/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/android/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/android/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/android/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/android/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/ast/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/ast/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/ast/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/ast/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/ast/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/ast/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/bias-mitigation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/bias-mitigation/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/bias-mitigation/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/bias-mitigation/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/bias-mitigation/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/bias-mitigation/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/big-data/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/big-data/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/big-data/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/big-data/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/big-data/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/big-data/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/bigcode/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/bigcode/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/bigcode/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/bigcode/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/bigcode/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/bigcode/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/boa/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/boa/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/boa/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/boa/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/boa/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/boa/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/causal-reasoning/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/causal-reasoning/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/causal-reasoning/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/causal-reasoning/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/causal-reasoning/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/causal-reasoning/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/closed-captions/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/closed-captions/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/closed-captions/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/closed-captions/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/closed-captions/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/closed-captions/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/cloud-computing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/cloud-computing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/cloud-computing/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/cloud-computing/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/cloud-computing/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/cloud-computing/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/conference/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/conference/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/conference/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/conference/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/conference/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/conference/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/courses/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/courses/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/courses/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/courses/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/courses/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/courses/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/data-science-pipelines/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/data-science-pipelines/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/data-science-pipelines/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/data-science-pipelines/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/data-science-pipelines/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/data-science-pipelines/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/data-science-processes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/data-science-processes/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/data-science-processes/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/data-science-processes/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/data-science-processes/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/data-science-processes/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/data-science/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/data-science/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/data-science/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/data-science/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/data-science/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/data-science/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/database/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/database/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/database/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/database/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/database/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/database/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/descriptive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/descriptive/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/descriptive/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/descriptive/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/descriptive/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/descriptive/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/design/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/design/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/design/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/design/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/design/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/design/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/ensemble/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/ensemble/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/ensemble/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/ensemble/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/ensemble/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/ensemble/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/evolution/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/evolution/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/evolution/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/evolution/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/evolution/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/evolution/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/fairness/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/fairness/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/fairness/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/fairness/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/fairness/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/fairness/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/game/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/game/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/game/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/game/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/game/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/game/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/genetic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/genetic/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/genetic/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/genetic/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/genetic/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/genetic/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/healthcare/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/healthcare/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/healthcare/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/healthcare/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/healthcare/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/healthcare/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/interdisciplinary/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/interdisciplinary/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/interdisciplinary/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/interdisciplinary/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/interdisciplinary/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/interdisciplinary/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/k-12/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/k-12/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/k-12/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/k-12/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/k-12/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/k-12/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/machine-learning/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/machine-learning/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/machine-learning/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/machine-learning/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/machine-learning/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/machine-learning/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/maintenance/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/maintenance/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/maintenance/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/maintenance/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/maintenance/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/maintenance/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/mining/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/mining/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/mining/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/mining/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/mining/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/mining/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/models/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/models/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/models/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/models/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/models/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/models/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/msr/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/msr/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/msr/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/msr/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/msr/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/msr/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/neural-network/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/neural-network/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/neural-network/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/neural-network/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/neural-network/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/neural-network/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/organization/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/organization/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/organization/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/organization/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/organization/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/organization/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/oss/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/oss/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/oss/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/oss/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/oss/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/oss/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/outreach/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/outreach/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/outreach/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/outreach/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/outreach/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/outreach/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/pipeline/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/pipeline/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/pipeline/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/pipeline/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/pipeline/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/pipeline/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/predictive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/predictive/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/predictive/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/predictive/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/predictive/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/predictive/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/preprocessing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/preprocessing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/preprocessing/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/preprocessing/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/preprocessing/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/preprocessing/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/program-analysis/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/program-analysis/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/program-analysis/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/program-analysis/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/program-analysis/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/program-analysis/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/programming-languages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/programming-languages/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/programming-languages/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/programming-languages/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/programming-languages/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/programming-languages/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/se4ml/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/se4ml/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/se4ml/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/se4ml/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/se4ml/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/se4ml/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/security/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/security/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/security/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/security/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/security/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/security/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/social-network/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/social-network/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/social-network/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/social-network/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/social-network/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/social-network/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/software-developement/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/software-developement/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/software-developement/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/software-developement/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/software-developement/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/software-developement/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/software-fairness/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/software-fairness/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/software-fairness/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/software-fairness/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/software-fairness/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/software-fairness/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/software/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/software/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/software/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/software/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/software/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/software/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/static-analysis/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/static-analysis/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/static-analysis/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/static-analysis/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/static-analysis/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/static-analysis/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/talk/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/talk/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/talk/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/talk/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/talk/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/talk/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/teaching/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/teaching/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/teaching/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/teaching/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/teaching/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/teaching/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/technical-debt/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/technical-debt/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/technical-debt/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/technical-debt/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/technical-debt/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/technical-debt/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/testing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/testing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/testing/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/testing/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/testing/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/testing/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/trade-off/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/trade-off/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/trade-off/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/trade-off/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/trade-off/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/trade-off/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/uncertainty/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/uncertainty/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/uncertainty/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/uncertainty/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/uncertainty/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/uncertainty/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/verification/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/verification/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/verification/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tag/verification/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tag/verification/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/verification/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/tags/index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/page/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/page/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/page/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/page/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/page/3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/page/4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/page/4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/page/5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/page/5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/page/6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/page/6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/sumon-vcard.vcf" beforeDir="false" afterPath="$PROJECT_DIR$/uploads/sumon-vcard.vcf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,10 +287,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2Q3cMx7GqjO5JJcIVr2ZgJJ3EmK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,6 +309,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -62,10 +325,25 @@
       <workItem from="1684674018024" duration="711000" />
       <workItem from="1685789846288" duration="785000" />
       <workItem from="1691251023865" duration="513000" />
+      <workItem from="1691251543286" duration="2596000" />
     </task>
+    <task id="LOCAL-00001" summary="#1 upload templated">
+      <option name="closed" value="true" />
+      <created>1691252557244</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691252557244</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#1 upload templated" />
+    <MESSAGE value="#1 make changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="#1 make changes" />
   </component>
 </project>
