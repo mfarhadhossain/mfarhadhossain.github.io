@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56172113-51ed-4ee8-a1a9-127ed0312803" name="Changes" comment="fix twitter acc and logo beside name">
+    <list default="true" id="56172113-51ed-4ee8-a1a9-127ed0312803" name="Changes" comment="fix logo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -69,7 +69,7 @@
       <workItem from="1684674018024" duration="711000" />
       <workItem from="1685789846288" duration="785000" />
       <workItem from="1691251023865" duration="513000" />
-      <workItem from="1691251543286" duration="11987000" />
+      <workItem from="1691251543286" duration="12388000" />
     </task>
     <task id="LOCAL-00001" summary="#1 upload templated">
       <option name="closed" value="true" />
@@ -103,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691263169440</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix logo">
+      <option name="closed" value="true" />
+      <created>1691264344516</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691264344516</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +122,7 @@
     <MESSAGE value="#1 make changes" />
     <MESSAGE value="#2 edit about section" />
     <MESSAGE value="fix twitter acc and logo beside name" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix twitter acc and logo beside name" />
+    <MESSAGE value="fix logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix logo" />
   </component>
 </project>
