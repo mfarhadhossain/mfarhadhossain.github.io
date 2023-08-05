@@ -4,89 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56172113-51ed-4ee8-a1a9-127ed0312803" name="Changes" comment="#1 make changes">
+    <list default="true" id="56172113-51ed-4ee8-a1a9-127ed0312803" name="Changes" comment="#2 edit about section">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/academic-project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/academic-project/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/admin/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/categories/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/categories/index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/categories/index.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/category/conference/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/conference/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/category/conference/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/conference/page/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/category/courses/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/courses/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/category/events/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/events/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/category/research/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/research/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/category/tutorial/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/category/tutorial/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/courses/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/courses/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/index.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/post/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/post/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication-type/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication-type/1/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication-type/1/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication-type/1/page/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/publication_types/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/publication_types/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/aco/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/aco/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/android/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/android/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/ast/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/ast/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/bias-mitigation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/bias-mitigation/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/big-data/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/big-data/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/bigcode/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/bigcode/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/boa/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/boa/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/causal-reasoning/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/causal-reasoning/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/closed-captions/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/closed-captions/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/cloud-computing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/cloud-computing/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/conference/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/conference/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/courses/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/courses/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/data-science-pipelines/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/data-science-pipelines/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/data-science-processes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/data-science-processes/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/data-science/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/data-science/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/database/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/database/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/descriptive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/descriptive/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/design/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/design/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/ensemble/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/ensemble/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/evolution/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/evolution/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/fairness/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/fairness/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/game/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/game/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/genetic/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/genetic/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/healthcare/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/healthcare/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/interdisciplinary/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/interdisciplinary/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/k-12/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/k-12/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/machine-learning/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/machine-learning/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/maintenance/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/maintenance/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/mining/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/mining/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/models/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/models/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/msr/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/msr/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/neural-network/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/neural-network/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/organization/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/organization/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/oss/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/oss/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/outreach/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/outreach/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/pipeline/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/pipeline/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/predictive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/predictive/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/preprocessing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/preprocessing/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/program-analysis/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/program-analysis/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/programming-languages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/programming-languages/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/se4ml/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/se4ml/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/security/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/security/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/social-network/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/social-network/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/software-developement/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/software-developement/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/software-fairness/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/software-fairness/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/software/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/software/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/static-analysis/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/static-analysis/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/talk/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/talk/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/teaching/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/teaching/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/technical-debt/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/technical-debt/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/testing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/testing/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/trade-off/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/trade-off/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/uncertainty/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/uncertainty/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tag/verification/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tag/verification/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/page/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/page/2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/page/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/page/3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/page/4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/page/4/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/page/5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/page/5/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tags/page/6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tags/page/6/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/CV_SumonBiswas.pdf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +42,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Fun Projects/Portfolio",
+    "last_opened_file_path": "D:/Fun Projects/Portfolio/media",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -132,6 +52,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Fun Projects\Portfolio\media" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -144,7 +69,7 @@
       <workItem from="1684674018024" duration="711000" />
       <workItem from="1685789846288" duration="785000" />
       <workItem from="1691251023865" duration="513000" />
-      <workItem from="1691251543286" duration="9734000" />
+      <workItem from="1691251543286" duration="10731000" />
     </task>
     <task id="LOCAL-00001" summary="#1 upload templated">
       <option name="closed" value="true" />
@@ -162,7 +87,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691254993356</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="#2 edit about section">
+      <option name="closed" value="true" />
+      <created>1691262262887</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691262262887</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +104,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="#1 upload templated" />
     <MESSAGE value="#1 make changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="#1 make changes" />
+    <MESSAGE value="#2 edit about section" />
+    <option name="LAST_COMMIT_MESSAGE" value="#2 edit about section" />
   </component>
 </project>
