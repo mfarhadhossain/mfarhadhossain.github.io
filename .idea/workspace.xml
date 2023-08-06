@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56172113-51ed-4ee8-a1a9-127ed0312803" name="Changes" comment="fix mobile version logo">
+    <list default="true" id="56172113-51ed-4ee8-a1a9-127ed0312803" name="Changes" comment="fix tab logo">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +70,7 @@
       <workItem from="1685789846288" duration="785000" />
       <workItem from="1691251023865" duration="513000" />
       <workItem from="1691251543286" duration="14684000" />
+      <workItem from="1691345601254" duration="3611000" />
     </task>
     <task id="LOCAL-00001" summary="#1 upload templated">
       <option name="closed" value="true" />
@@ -126,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691268072058</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fix tab logo">
+      <option name="closed" value="true" />
+      <created>1691268715466</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691268715466</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +149,7 @@
     <MESSAGE value="fix twitter acc and logo beside name" />
     <MESSAGE value="fix logo" />
     <MESSAGE value="fix mobile version logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix mobile version logo" />
+    <MESSAGE value="fix tab logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix tab logo" />
   </component>
 </project>
