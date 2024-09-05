@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56172113-51ed-4ee8-a1a9-127ed0312803" name="Changes" comment="#3 fix tab logo">
-      <change afterPath="$PROJECT_DIR$/uploads/CV_FARHAD_HOSSAIN.pdf" afterDir="false" />
+    <list default="true" id="56172113-51ed-4ee8-a1a9-127ed0312803" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -36,24 +35,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Fun Projects/Portfolio/uploads",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.fileTypes",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Fun Projects/Portfolio/uploads&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.fileTypes&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Fun Projects\Portfolio\uploads" />
@@ -90,7 +89,8 @@
       <workItem from="1708549156110" duration="367000" />
       <workItem from="1708549613942" duration="387000" />
       <workItem from="1711275612695" duration="4103000" />
-      <workItem from="1725478202489" duration="1316000" />
+      <workItem from="1725478202489" duration="3400000" />
+      <workItem from="1725499094501" duration="585000" />
     </task>
     <task id="LOCAL-00001" summary="#1 upload templated">
       <option name="closed" value="true" />
@@ -172,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708549437524</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="updated cv">
+      <option name="closed" value="true" />
+      <created>1725481732726</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1725481732726</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,8 +194,9 @@
     <MESSAGE value="fix logo" />
     <MESSAGE value="fix mobile version logo" />
     <MESSAGE value="fix tab logo" />
-    <MESSAGE value="#3 fix tab logo" />
     <MESSAGE value="fix references in publication" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix references in publication" />
+    <MESSAGE value="#3 fix tab logo" />
+    <MESSAGE value="updated cv" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated cv" />
   </component>
 </project>
