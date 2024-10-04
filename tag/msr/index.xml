@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MSR | Farhad Hossain</title>
-    <link>https://frdhsn.github.io/tag/msr/</link>
-      <atom:link href="https://frdhsn.github.io/tag/msr/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mfarhadhossain.github.io/tag/msr/</link>
+      <atom:link href="https://mfarhadhossain.github.io/tag/msr/index.xml" rel="self" type="application/rss+xml" />
     <description>MSR</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Farhad Hossain</copyright><lastBuildDate>Sun, 26 May 2019 21:25:33 -0500</lastBuildDate>
     <image>
-      <url>https://frdhsn.github.io/media/logo.svg</url>
+      <url>https://mfarhadhossain.github.io/media/logo.svg</url>
       <title>MSR</title>
-      <link>https://frdhsn.github.io/tag/msr/</link>
+      <link>https://mfarhadhossain.github.io/tag/msr/</link>
     </image>
     
     <item>
       <title>Boa Meets Python: A Boa Dataset of Data Science Software in Python Language</title>
-      <link>https://frdhsn.github.io/publication/msr19/</link>
+      <link>https://mfarhadhossain.github.io/publication/msr19/</link>
       <pubDate>Sun, 26 May 2019 21:25:33 -0500</pubDate>
-      <guid>https://frdhsn.github.io/publication/msr19/</guid>
+      <guid>https://mfarhadhossain.github.io/publication/msr19/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -28,9 +28,9 @@
     
     <item>
       <title>Boa for Big-Code Mining and Large-Scale Static Analysis</title>
-      <link>https://frdhsn.github.io/post/boa-tutorial/</link>
+      <link>https://mfarhadhossain.github.io/post/boa-tutorial/</link>
       <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
-      <guid>https://frdhsn.github.io/post/boa-tutorial/</guid>
+      <guid>https://mfarhadhossain.github.io/post/boa-tutorial/</guid>
       <description>&lt;p&gt;This tutorial will describe how to create your own Boa dataset for specific projects in Github and run Boa queries on that dataset locally. We will use command line and Eclipse IDE for that purpose.&lt;/p&gt;
 &lt;h2 id=&#34;prerequisite&#34;&gt;Prerequisite&lt;/h2&gt;
 &lt;p&gt;You need to have following already installed in your system:&lt;/p&gt;
@@ -70,7 +70,7 @@
                /post/boa-tutorial/import_hu18ade01ed00817a4bb1fa04cbf19de50_100306_8b8e2b26342e735bcc4f07d6f49124d5.png 400w,
                /post/boa-tutorial/import_hu18ade01ed00817a4bb1fa04cbf19de50_100306_36ddbde6110206d333a9f39ed372eb8e.png 760w,
                /post/boa-tutorial/import_hu18ade01ed00817a4bb1fa04cbf19de50_100306_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://frdhsn.github.io/post/boa-tutorial/import_hu18ade01ed00817a4bb1fa04cbf19de50_100306_8b8e2b26342e735bcc4f07d6f49124d5.png&#34;
+               src=&#34;https://mfarhadhossain.github.io/post/boa-tutorial/import_hu18ade01ed00817a4bb1fa04cbf19de50_100306_8b8e2b26342e735bcc4f07d6f49124d5.png&#34;
                width=&#34;760&#34;
                height=&#34;529&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -104,7 +104,7 @@
                /post/boa-tutorial/after_config_huc30bb9b6770fa560d57158247648e19e_254071_0f267088009d39f4d6144eed5cf2e29e.png 400w,
                /post/boa-tutorial/after_config_huc30bb9b6770fa560d57158247648e19e_254071_8beb014657c4a32573ee7449d578aefd.png 760w,
                /post/boa-tutorial/after_config_huc30bb9b6770fa560d57158247648e19e_254071_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://frdhsn.github.io/post/boa-tutorial/after_config_huc30bb9b6770fa560d57158247648e19e_254071_0f267088009d39f4d6144eed5cf2e29e.png&#34;
+               src=&#34;https://mfarhadhossain.github.io/post/boa-tutorial/after_config_huc30bb9b6770fa560d57158247648e19e_254071_0f267088009d39f4d6144eed5cf2e29e.png&#34;
                width=&#34;760&#34;
                height=&#34;438&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -146,7 +146,7 @@
                /post/boa-tutorial/json_looklike_hu2ab2130319f6cfb527ad0ef2986ae93a_168440_f49bec1fdd27f7b5c178995e13009bd9.png 400w,
                /post/boa-tutorial/json_looklike_hu2ab2130319f6cfb527ad0ef2986ae93a_168440_20af3c33d6658053b2194ed22c8b5fb8.png 760w,
                /post/boa-tutorial/json_looklike_hu2ab2130319f6cfb527ad0ef2986ae93a_168440_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://frdhsn.github.io/post/boa-tutorial/json_looklike_hu2ab2130319f6cfb527ad0ef2986ae93a_168440_f49bec1fdd27f7b5c178995e13009bd9.png&#34;
+               src=&#34;https://mfarhadhossain.github.io/post/boa-tutorial/json_looklike_hu2ab2130319f6cfb527ad0ef2986ae93a_168440_f49bec1fdd27f7b5c178995e13009bd9.png&#34;
                width=&#34;600&#34;
                height=&#34;395&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -181,7 +181,7 @@
                /post/boa-tutorial/datagen_hu949fdfc0778c85be9ad23ef2b524f8af_286100_975fb2b00653598ae3d0aaaf66cd565c.png 400w,
                /post/boa-tutorial/datagen_hu949fdfc0778c85be9ad23ef2b524f8af_286100_a821359fabc7942f9039a41f15b7635b.png 760w,
                /post/boa-tutorial/datagen_hu949fdfc0778c85be9ad23ef2b524f8af_286100_1200x1200_fit_lanczos_3.png 1200w&#34;
-               src=&#34;https://frdhsn.github.io/post/boa-tutorial/datagen_hu949fdfc0778c85be9ad23ef2b524f8af_286100_975fb2b00653598ae3d0aaaf66cd565c.png&#34;
+               src=&#34;https://mfarhadhossain.github.io/post/boa-tutorial/datagen_hu949fdfc0778c85be9ad23ef2b524f8af_286100_975fb2b00653598ae3d0aaaf66cd565c.png&#34;
                width=&#34;718&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -216,7 +216,7 @@
                 /post/boa-tutorial/datagenparam_hu0ab8dbc86191e859d9cf2dbaf834ceed_190851_9bcc7799a517c20c420a928e34056f90.png 400w,
                 /post/boa-tutorial/datagenparam_hu0ab8dbc86191e859d9cf2dbaf834ceed_190851_f15015d26c48b89e9bc0530707a356ba.png 760w,
                 /post/boa-tutorial/datagenparam_hu0ab8dbc86191e859d9cf2dbaf834ceed_190851_1200x1200_fit_lanczos_3.png 1200w&#34;
-                src=&#34;https://frdhsn.github.io/post/boa-tutorial/datagenparam_hu0ab8dbc86191e859d9cf2dbaf834ceed_190851_9bcc7799a517c20c420a928e34056f90.png&#34;
+                src=&#34;https://mfarhadhossain.github.io/post/boa-tutorial/datagenparam_hu0ab8dbc86191e859d9cf2dbaf834ceed_190851_9bcc7799a517c20c420a928e34056f90.png&#34;
                 width=&#34;760&#34;
                 height=&#34;650&#34;
                 loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -259,7 +259,7 @@
                 /post/boa-tutorial/evalparam_hue8c49e7c5cd92ffdb7d8309808005f8d_259498_bd1849e8859a8e0de8f2553ea8b570e1.png 400w,
                 /post/boa-tutorial/evalparam_hue8c49e7c5cd92ffdb7d8309808005f8d_259498_38c40ac3b74c73d956959061788cdf42.png 760w,
                 /post/boa-tutorial/evalparam_hue8c49e7c5cd92ffdb7d8309808005f8d_259498_1200x1200_fit_lanczos_3.png 1200w&#34;
-                src=&#34;https://frdhsn.github.io/post/boa-tutorial/evalparam_hue8c49e7c5cd92ffdb7d8309808005f8d_259498_bd1849e8859a8e0de8f2553ea8b570e1.png&#34;
+                src=&#34;https://mfarhadhossain.github.io/post/boa-tutorial/evalparam_hue8c49e7c5cd92ffdb7d8309808005f8d_259498_bd1849e8859a8e0de8f2553ea8b570e1.png&#34;
                 width=&#34;760&#34;
                 height=&#34;467&#34;
                 loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>descriptive | Farhad Hossain</title>
-    <link>https://frdhsn.github.io/tag/descriptive/</link>
-      <atom:link href="https://frdhsn.github.io/tag/descriptive/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mfarhadhossain.github.io/tag/descriptive/</link>
+      <atom:link href="https://mfarhadhossain.github.io/tag/descriptive/index.xml" rel="self" type="application/rss+xml" />
     <description>descriptive</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Farhad Hossain</copyright><lastBuildDate>Sat, 21 May 2022 21:25:33 -0500</lastBuildDate>
     <image>
-      <url>https://frdhsn.github.io/media/logo.svg</url>
+      <url>https://mfarhadhossain.github.io/media/logo.svg</url>
       <title>descriptive</title>
-      <link>https://frdhsn.github.io/tag/descriptive/</link>
+      <link>https://mfarhadhossain.github.io/tag/descriptive/</link>
     </image>
     
     <item>
       <title>The Art and Practice of Data Science Pipelines: A Comprehensive Study of Data Science Pipelines In Theory, In-The-Small, and In-The-Large</title>
-      <link>https://frdhsn.github.io/publication/icse22/</link>
+      <link>https://mfarhadhossain.github.io/publication/icse22/</link>
       <pubDate>Sat, 21 May 2022 21:25:33 -0500</pubDate>
-      <guid>https://frdhsn.github.io/publication/icse22/</guid>
+      <guid>https://mfarhadhossain.github.io/publication/icse22/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

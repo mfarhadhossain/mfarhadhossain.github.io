@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Courses | Farhad Hossain</title>
-    <link>https://frdhsn.github.io/courses/</link>
-      <atom:link href="https://frdhsn.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mfarhadhossain.github.io/courses/</link>
+      <atom:link href="https://mfarhadhossain.github.io/courses/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Farhad Hossain</copyright>
     <image>
-      <url>https://frdhsn.github.io/media/logo.svg</url>
+      <url>https://mfarhadhossain.github.io/media/logo.svg</url>
       <title>Courses</title>
-      <link>https://frdhsn.github.io/courses/</link>
+      <link>https://mfarhadhossain.github.io/courses/</link>
     </image>
     
     <item>
       <title>COMS 309: Software Development Practices</title>
-      <link>https://frdhsn.github.io/courses/software-development/</link>
+      <link>https://mfarhadhossain.github.io/courses/software-development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://frdhsn.github.io/courses/software-development/</guid>
+      <guid>https://mfarhadhossain.github.io/courses/software-development/</guid>
       <description>&lt;p&gt;I was a TA for the course in 3 semesters and got a chance to teach a diverse class of ~250 students. The course taught software engineering concepts and developing a large software (from idea to release) throughout the semester in a team of four.&lt;/p&gt;
 &lt;p&gt;My responsibilities included weekly lecture in a section of 30 students, supervising 8 project teams (32 students), and creating video tutorials. The project supervision was a great opportunity to closely work with students, meet weekly, explain requirements, monitor deliverables in Trello, review code in Git, etc. Many of my supervised teams built complex software with Android client, Spring back-end, concurrent features, audio-video communication, etc. In two out of three semesters, my supervised teams won the best project award in the whole class.&lt;/p&gt;
 &lt;h2 id=&#34;topics&#34;&gt;Topics&lt;/h2&gt;
@@ -202,9 +202,9 @@ weakly meeting, explain software requirements and deliverables, solve problems&l
     
     <item>
       <title>COMS 327: Advanced Programming Techniques</title>
-      <link>https://frdhsn.github.io/courses/advanced-programming/</link>
+      <link>https://mfarhadhossain.github.io/courses/advanced-programming/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://frdhsn.github.io/courses/advanced-programming/</guid>
+      <guid>https://mfarhadhossain.github.io/courses/advanced-programming/</guid>
       <description>&lt;p&gt;This is one of the largest computer science classes taught at Iowa State.
 The course was extensive in teaching advanced programming through unmanaged languages, which allowed students to learn memory management, concurrent and network programming, etc. I taught the course for three semesters and invested most of the time with students in problem-solving, live coding, debugging, and testing.&lt;/p&gt;
 &lt;p&gt;I conducted long programming sessions (~4 hours), helped the instructor in designing tests, and grade programming assignments. Being heavy on the practical side, I taught many of the abstract programming paradigms in live coding sessions with examples. I taught students to explain the coding steps of brainstorming, writing the simpler solution and then optimizing, while they solve a problem.&lt;/p&gt;

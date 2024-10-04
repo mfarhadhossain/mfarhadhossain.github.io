@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>K-12 | Farhad Hossain</title>
-    <link>https://frdhsn.github.io/tag/k-12/</link>
-      <atom:link href="https://frdhsn.github.io/tag/k-12/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mfarhadhossain.github.io/tag/k-12/</link>
+      <atom:link href="https://mfarhadhossain.github.io/tag/k-12/index.xml" rel="self" type="application/rss+xml" />
     <description>K-12</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© 2021 Farhad Hossain</copyright><lastBuildDate>Sat, 14 Apr 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://frdhsn.github.io/media/logo.svg</url>
+      <url>https://mfarhadhossain.github.io/media/logo.svg</url>
       <title>K-12</title>
-      <link>https://frdhsn.github.io/tag/k-12/</link>
+      <link>https://mfarhadhossain.github.io/tag/k-12/</link>
     </image>
     
     <item>
       <title>Computational Thinking of K-12 Outreach Program</title>
-      <link>https://frdhsn.github.io/post/k-12-coding-competition-judge/</link>
+      <link>https://mfarhadhossain.github.io/post/k-12-coding-competition-judge/</link>
       <pubDate>Sat, 14 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>https://frdhsn.github.io/post/k-12-coding-competition-judge/</guid>
+      <guid>https://mfarhadhossain.github.io/post/k-12-coding-competition-judge/</guid>
       <description>&lt;p&gt;As part of the K-12 Outreach program, ISU computer science organized Computational Thinking Event this year. I got the opportunity to be a judge of the competition and see the outstanding computational projects developed by bright youngsters!&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Science fair-like format where participants come prepared
