@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="56172113-51ed-4ee8-a1a9-127ed0312803" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uploads/CV_FARHAD_HOSSAIN.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/uploads/CV_FARHAD_HOSSAIN.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/CV_FARHAD_HOSSAIN.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/uploads/CV_FARHAD_HOSSAIN_OLD_2.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +98,11 @@
       <workItem from="1726391071892" duration="1609000" />
       <workItem from="1728068157368" duration="2634000" />
       <workItem from="1729180682541" duration="11000" />
-      <workItem from="1729194024209" duration="5341000" />
+      <workItem from="1729194024209" duration="5608000" />
+      <workItem from="1730411776342" duration="876000" />
+      <workItem from="1730665220208" duration="38000" />
+      <workItem from="1730752812440" duration="22000" />
+      <workItem from="1736184338741" duration="409000" />
     </task>
     <task id="LOCAL-00001" summary="#1 upload templated">
       <option name="closed" value="true" />
@@ -229,7 +232,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729195181739</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Improve the about and research section">
+      <option name="closed" value="true" />
+      <created>1729202346608</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1729202346608</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Add credit">
+      <option name="closed" value="true" />
+      <created>1730412050348</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1730412050348</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,6 +269,8 @@
     <MESSAGE value="add formal photo as dp and update cv" />
     <MESSAGE value="Incorporate changes after changing github username" />
     <MESSAGE value="Issue #3: Improve publication section. Add first two publications pages." />
-    <option name="LAST_COMMIT_MESSAGE" value="Issue #3: Improve publication section. Add first two publications pages." />
+    <MESSAGE value="Improve the about and research section" />
+    <MESSAGE value="Add credit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add credit" />
   </component>
 </project>
