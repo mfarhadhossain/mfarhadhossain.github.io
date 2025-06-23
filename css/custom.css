@@ -1,0 +1,104 @@
+/* Enhanced project card styling */
+.project-card .card-body {
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 200px;
+    text-align: center;
+}
+
+.project-card .btn-links {
+    margin-top: 1rem;
+}
+
+/* Improve project toolbar button spacing */
+.project-toolbar .btn-group .btn {
+    margin-right: 0.5rem;
+}
+
+.project-toolbar .btn-group .btn:last-child {
+    margin-right: 0;
+}
+
+/* Better spacing for project items */
+.isotope-item {
+    margin-bottom: 2rem;
+}
+
+/* Placeholder project card styling */
+.project-card .card-body h4 {
+    color: #6c757d;
+    margin-bottom: 1rem;
+}
+
+.project-card .card-body .text-muted {
+    font-style: italic;
+}
+
+/* Project image hover effect enhancement */
+.project-card .card-image {
+    overflow: hidden;
+    border-radius: 0.25rem 0.25rem 0 0;
+}
+
+.project-card .card-image img {
+    transition: transform 0.3s ease;
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+.project-card:hover .card-image img {
+    transform: scale(1.05);
+}
+
+/* Dark mode enhancements for project cards */
+.dark .project-card .card-body {
+    background-color: #343a40;
+    color: #f8f8f2;
+}
+
+.dark .project-card .card-body h4 {
+    color: #f8f8f2;
+}
+
+.dark .project-card .card-body .text-muted {
+    color: #adb5bd;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .project-toolbar .btn-group {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .project-toolbar .btn-group .btn {
+        margin-bottom: 0.5rem;
+        font-size: 0.9rem;
+        padding: 0.5rem 1rem;
+    }
+}
+
+/* Filter button active state enhancement */
+.project-toolbar .btn.active {
+    background-color: #1565c0;
+    border-color: #1565c0;
+    box-shadow: 0 2px 4px rgba(21, 101, 192, 0.3);
+}
+
+/* Project card animation */
+.project-card {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.dark .project-card:hover {
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+}

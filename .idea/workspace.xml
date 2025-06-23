@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="56172113-51ed-4ee8-a1a9-127ed0312803" name="Changes" comment="">
+    <list default="true" id="56172113-51ed-4ee8-a1a9-127ed0312803" name="Changes" comment="Update the research direction">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.json" beforeDir="false" afterPath="$PROJECT_DIR$/index.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "mfarhadhossain"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mfarhadhossain&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mfarhadhossain/mfarhadhossain.github.io.git",
-    "accountId": "2c7f6867-5521-43f4-a7b1-f67f753bc0fa"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mfarhadhossain/mfarhadhossain.github.io.git&quot;,
+    &quot;accountId&quot;: &quot;2c7f6867-5521-43f4-a7b1-f67f753bc0fa&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -56,7 +57,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Fun Projects/Portfolio/uploads",
+    "last_opened_file_path": "/home/farhad/IdeaProjects/mfarhadhossain.github.io",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -115,7 +116,10 @@
       <workItem from="1730665220208" duration="38000" />
       <workItem from="1730752812440" duration="22000" />
       <workItem from="1736184338741" duration="409000" />
-      <workItem from="1740659355778" duration="1100000" />
+      <workItem from="1740659355778" duration="1808000" />
+      <workItem from="1740673644285" duration="27000" />
+      <workItem from="1740678231752" duration="4000" />
+      <workItem from="1750637132578" duration="3951000" />
     </task>
     <task id="LOCAL-00001" summary="#1 upload templated">
       <option name="closed" value="true" />
@@ -261,11 +265,54 @@
       <option name="project" value="LOCAL" />
       <updated>1730412050348</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Fix outdated CV and add experience">
+      <option name="closed" value="true" />
+      <created>1740661263407</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1740661263407</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Fix outdated CV">
+      <option name="closed" value="true" />
+      <created>1750637260974</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1750637260974</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Improve the SEO">
+      <option name="closed" value="true" />
+      <created>1750638385077</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1750638385077</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Update the research direction">
+      <option name="closed" value="true" />
+      <created>1750640250985</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1750640250985</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="#1 upload templated" />
@@ -284,6 +331,10 @@
     <MESSAGE value="Issue #3: Improve publication section. Add first two publications pages." />
     <MESSAGE value="Improve the about and research section" />
     <MESSAGE value="Add credit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add credit" />
+    <MESSAGE value="Fix outdated CV and add experience" />
+    <MESSAGE value="Fix outdated CV" />
+    <MESSAGE value="Improve the SEO" />
+    <MESSAGE value="Update the research direction" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update the research direction" />
   </component>
 </project>
