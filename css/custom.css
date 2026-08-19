@@ -102,3 +102,103 @@
 .dark .project-card:hover {
     box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
 }
+/* Research section: expandable previous projects */
+.research-toggle {
+    display: inline-flex;
+    align-items: center;
+    padding: 0;
+    border: 0;
+    background: none;
+    color: #1565c0;
+    font-size: inherit;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.research-toggle:hover,
+.research-toggle:focus {
+    color: #0d47a1;
+    text-decoration: underline;
+}
+
+.research-toggle-icon {
+    margin-left: 0.4rem;
+    font-size: 0.8em;
+    transition: transform 0.2s ease;
+}
+
+.research-toggle[aria-expanded="true"] .research-toggle-icon {
+    transform: rotate(180deg);
+}
+
+.research-toggle .research-toggle-less,
+.research-toggle[aria-expanded="true"] .research-toggle-more {
+    display: none;
+}
+
+.research-toggle[aria-expanded="true"] .research-toggle-less {
+    display: inline;
+}
+
+.dark .research-toggle {
+    color: #64b5f6;
+}
+
+.dark .research-toggle:hover,
+.dark .research-toggle:focus {
+    color: #90caf9;
+}
+
+/* Visitor map badge: small floating panel, bottom-left, dismissible */
+.visitor-map-float {
+    position: fixed;
+    left: 1rem;
+    bottom: 1rem;
+    z-index: 1020;
+    width: 260px;
+    line-height: 0;
+    border-radius: 6px;
+    overflow: hidden;
+    box-shadow: 0 2px 14px rgba(0, 0, 0, 0.28);
+}
+
+.visitor-map-float.is-hidden {
+    display: none;
+}
+
+/* The widget injects its own min-height, which leaves dead space at this size */
+.visitor-map-float #mapmyvisitors-widget {
+    min-height: 0 !important;
+}
+
+.visitor-map-close {
+    position: absolute;
+    top: 4px;
+    right: 4px;
+    z-index: 2;
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    border: 0;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.45);
+    color: #fff;
+    font-size: 13px;
+    line-height: 20px;
+    text-align: center;
+    cursor: pointer;
+    opacity: 0.65;
+    transition: opacity 0.2s ease;
+}
+
+.visitor-map-float:hover .visitor-map-close,
+.visitor-map-close:focus {
+    opacity: 1;
+}
+
+/* Never cover content on phones and small tablets */
+@media (max-width: 991.98px) {
+    .visitor-map-float {
+        display: none;
+    }
+}
