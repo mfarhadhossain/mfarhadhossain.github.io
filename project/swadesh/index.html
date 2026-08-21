@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <meta name="generator" content="Wowchemy 5.3.0 for Hugo" />
+
+    <meta name="author" content="Farhad Hossain" />
+
+    <meta
+      name="description"
+      content="An iPhone app that reminds me to call family and friends. No account and no server; everything stays on the device. Reminders are scheduled for waking hours at both ends of the call."
+    />
+
+    <link
+      rel="alternate"
+      hreflang="en-us"
+      href="https://mfarhadhossain.github.io/project/swadesh/"
+    />
+
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <meta name="theme-color" content="#1565c0" />
+
+    <script src="/js/mathjax-config.js"></script>
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css"
+      integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg=="
+      crossorigin="anonymous"
+      media="print"
+      onload="this.media='all'"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+      integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc="
+      crossorigin="anonymous"
+      media="print"
+      onload="this.media='all'"
+    />
+
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css"
+      crossorigin="anonymous"
+      title="hl-light"
+      media="print"
+      onload="this.media='all'"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css"
+      crossorigin="anonymous"
+      title="hl-dark"
+      media="print"
+      onload="this.media='all'"
+      disabled
+    />
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"
+      integrity=""
+      crossorigin="anonymous"
+      async
+    ></script>
+
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Merriweather:wght@300&display=swap&display=swap"
+    />
+
+    <link
+      rel="stylesheet"
+      href="/css/wowchemy.15ba2f5647074856433c19e248295749.css"
+    />
+
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-P4NRW6E6Q4"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+
+      function trackOutboundLink(url, target) {
+        gtag("event", "click", {
+          event_category: "outbound",
+          event_label: url,
+          transport_type: "beacon",
+          event_callback: function () {
+            if (target !== "_blank") {
+              document.location = url;
+            }
+          },
+        });
+        console.debug("Outbound link clicked: " + url);
+      }
+
+      function onClickCallback(event) {
+        if (
+          event.target.tagName !== "A" ||
+          event.target.host === window.location.host
+        ) {
+          return;
+        }
+        trackOutboundLink(event.target, event.target.getAttribute("target"));
+      }
+
+      gtag("js", new Date());
+      gtag("config", "G-P4NRW6E6Q4", {});
+      gtag("set", { cookie_flags: "SameSite=None;Secure" });
+
+      document.addEventListener("click", onClickCallback, false);
+    </script>
+
+    <link rel="manifest" href="/manifest.webmanifest" />
+
+    <link rel="icon" type="image/png" href="/media/user-astronaut-solid.svg" />
+    <link
+      rel="apple-touch-icon"
+      type="image/png"
+      href="/media/user-astronaut-solid.svg"
+    />
+
+    <link
+      rel="canonical"
+      href="https://mfarhadhossain.github.io/project/swadesh/"
+    />
+
+    <meta property="twitter:card" content="summary" />
+
+    <meta property="twitter:site" content="@frdhsn01" />
+    <meta property="twitter:creator" content="@frdhsn01" />
+
+    <meta property="og:site_name" content="Farhad Hossain" />
+    <meta
+      property="og:url"
+      content="https://mfarhadhossain.github.io/project/swadesh/"
+    />
+    <meta
+      property="og:title"
+      content="Swadesh | Farhad Hossain"
+    />
+    <meta
+      property="og:description"
+      content="An iPhone app that reminds me to call family and friends. No account and no server; everything stays on the device. Reminders are scheduled for waking hours at both ends of the call."
+    />
+    <meta property="og:type" content="article" />
+    <meta property="og:locale" content="en-us" />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Swadesh",
+        "url": "https://mfarhadhossain.github.io/project/swadesh/",
+        "description": "An iPhone app that reminds me to call family and friends. No account and no server; everything stays on the device. Reminders are scheduled for waking hours at both ends of the call.",
+        "author": {
+          "@type": "Person",
+          "name": "Farhad Hossain",
+          "url": "https://mfarhadhossain.github.io/"
+        }
+      }
+    </script>
+
+    <title>
+      Swadesh | Farhad Hossain
+    </title>
+
+  </head>
+
+  <body
+    id="top"
+    data-spy="scroll"
+    data-offset="70"
+    data-target="#TableOfContents"
+    class="page-wrapper"
+    data-wc-page-id="ccc7ccebebd8edb663e866338f22d9cf"
+  >
+    <script src="/js/wowchemy-init.min.61232a63bf46f6c29a0ddd38f7278ac8.js"></script>
+
+    <aside class="search-modal" id="search">
+      <div class="container">
+        <section class="search-header">
+          <div class="row no-gutters justify-content-between mb-3">
+            <div class="col-6">
+              <h1>Search</h1>
+            </div>
+            <div class="col-6 col-search-close">
+              <a class="js-search" href="#" aria-label="Close"
+                ><i
+                  class="fas fa-times-circle text-muted"
+                  aria-hidden="true"
+                ></i
+              ></a>
+            </div>
+          </div>
+
+          <div id="search-box">
+            <input
+              name="q"
+              id="search-query"
+              placeholder="Search..."
+              autocapitalize="off"
+              autocomplete="off"
+              autocorrect="off"
+              spellcheck="false"
+              type="search"
+              class="form-control"
+              aria-label="Search..."
+            />
+          </div>
+        </section>
+        <section class="section-search-results">
+          <div id="search-hits"></div>
+        </section>
+      </div>
+    </aside>
+
+    <div class="page-header">
+      <nav
+        class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar"
+        id="navbar-main"
+      >
+        <div class="container-xl">
+          <div class="d-none d-lg-inline-flex">
+            <a class="navbar-brand" href="/"
+              ><img
+                src="/media/cp-community-logo-trans.png"
+                style="display: inline"
+                alt="Farhad Hossain"
+              />
+              <span style="padding-left: 15px">Farhad Hossain</span></a
+            >
+          </div>
+
+          <button
+            type="button"
+            class="navbar-toggler"
+            data-toggle="collapse"
+            data-target="#navbar-content"
+            aria-controls="navbar-content"
+            aria-expanded="false"
+            aria-label="Toggle navigation"
+          >
+            <span><i class="fas fa-bars"></i></span>
+          </button>
+
+          <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+            <a class="navbar-brand" href="/"
+              ><img
+                src="/media/cp-community-logo-trans.png"
+                style="display: inline"
+                alt="Farhad Hossain"
+              />
+              <span style="padding-left: 15px">Farhad Hossain</span>
+            </a>
+          </div>
+
+          <div
+            class="navbar-collapse main-menu-item collapse justify-content-center"
+            id="navbar-content"
+          >
+            <ul class="navbar-nav d-md-inline-flex">
+              <li class="nav-item">
+                <a class="nav-link" href="/#about"><span>Home</span></a>
+              </li>
+
+              <li class="nav-item">
+                <a class="nav-link" href="/#experience"
+                  ><span>Experience</span></a
+                >
+              </li>
+
+              <li class="nav-item">
+                <a class="nav-link" href="/#publications"
+                  ><span>Publication</span></a
+                >
+              </li>
+
+              <li class="nav-item">
+                <a class="nav-link" href="/#projects"><span>Projects</span></a>
+              </li>
+            </ul>
+          </div>
+
+          <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+            <li class="nav-item">
+              <a class="nav-link js-search" href="#" aria-label="Search"
+                ><i class="fas fa-search" aria-hidden="true"></i
+              ></a>
+            </li>
+
+            <li class="nav-item dropdown theme-dropdown">
+              <a
+                href="#"
+                class="nav-link"
+                data-toggle="dropdown"
+                aria-haspopup="true"
+                aria-label="Display preferences"
+              >
+                <i class="fas fa-moon" aria-hidden="true"></i>
+              </a>
+              <div class="dropdown-menu">
+                <a href="#" class="dropdown-item js-set-theme-light">
+                  <span>Light</span>
+                </a>
+                <a href="#" class="dropdown-item js-set-theme-dark">
+                  <span>Dark</span>
+                </a>
+                <a href="#" class="dropdown-item js-set-theme-auto">
+                  <span>Automatic</span>
+                </a>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </nav>
+    </div>
+
+    <div class="page-body">
+      <div class="pub">
+        <div class="article-container pt-3">
+          <h1>Swadesh</h1>
+
+          <div class="article-metadata">
+            <div>
+              <span>Personal project</span>
+            </div>
+            <div>
+              <span>Swift, SwiftUI, SwiftData, iOS 17</span>
+            </div>
+          </div>
+
+          <div class="btn-links">
+            <a class="btn btn-outline-primary btn-page-header" href="/#projects">
+              <i class="fas fa-arrow-left mr-1"></i>
+              All personal projects
+            </a>
+          </div>
+        </div>
+
+        <div class="article-container">
+          <h3>What it is</h3>
+          <p>Swadesh is an iPhone app that reminds me to call family and friends. I set how often I want to speak to each person, and it tracks who I have fallen behind on.</p>
+          <h3>Why I built it</h3>
+          <p>I moved from Dhaka to Pennsylvania and staying in touch got harder than I expected. I wanted something that would tell me who I had not spoken to in a while.</p>
+          <p>The apps I found all wanted an account and a copy of my contacts. I did not want that list living on someone else's server, so I wrote my own.</p>
+          <h3>How it works</h3>
+          <p>There is no account, no server and no sync. Everything is stored on the device.</p>
+          <p>The list is ordered by how far past its target each contact is, measured as a fraction of that contact's own target. Someone on a weekly target who I last called three weeks ago ranks above someone on a monthly target at four weeks. Because the ranking depends on the current time, it is computed in memory on every refresh.</p>
+          <p>Reminders are scheduled for an hour that falls between 9am and 9pm for me and for the person I am calling. The app starts at 10am on the due day and walks forward until it finds one. It compares minutes of the day, so time zones offset by 30 or 45 minutes work correctly. Two twelve hour windows always intersect except at an offset of exactly twelve hours, and that case is flagged and resolved in favour of the recipient.</p>
+          <p>A call is logged only after iOS confirms it opened WhatsApp or the dialler. If the handoff fails, nothing is written to the record.</p>
+          <p>iOS notification triggers fire once and are then discarded, so an ignored reminder is never repeated on its own. The app rebuilds its pending reminders on launch and on return to the foreground, which also re-resolves anything pinned to a stale time zone.</p>
+          <h3>Status</h3>
+          <p>In daily use. Contacts, targets, the dashboard, notifications and importing from the iOS address book are working. The cadence and sorting logic has no UI or database dependencies, so it runs under a test script without Xcode.</p>
+
+          <div class="article-widget content-widget-hr">
+            <h3>Related</h3>
+            <ul>
+              <li>
+                <a href="/project/diet-assistant/">Diet Assistant</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="page-footer">
+      <div class="container">
+        <footer class="site-footer">
+          <p class="powered-by">© 2024 Farhad Hossain.</p>
+        </footer>
+      </div>
+    </div>
+
+    <div id="modal" class="modal fade" role="dialog">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Cite</h5>
+            <button
+              type="button"
+              class="close"
+              data-dismiss="modal"
+              aria-label="Close"
+            >
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <pre><code class="tex hljs"></code></pre>
+          </div>
+          <div class="modal-footer">
+            <a
+              class="btn btn-outline-primary my-1 js-copy-cite"
+              href="#"
+              target="_blank"
+            >
+              <i class="fas fa-copy"></i> Copy
+            </a>
+            <a
+              class="btn btn-outline-primary my-1 js-download-cite"
+              href="#"
+              target="_blank"
+            >
+              <i class="fas fa-download"></i> Download
+            </a>
+            <div id="modal-error"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"
+      integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js"
+      integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ=="
+      crossorigin="anonymous"
+    ></script>
+
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js"
+      integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q="
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js"
+      integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI="
+      crossorigin="anonymous"
+    ></script>
+
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/highlight.min.js"
+      integrity="sha512-TDKKr+IvoqZnPzc3l35hdjpHD0m+b2EC2SrLEgKDRWpxf2rFCxemkgvJ5kfU48ip+Y+m2XVKyOCD85ybtlZDmw=="
+      crossorigin="anonymous"
+    ></script>
+
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/r.min.js"
+      crossorigin="anonymous"
+    ></script>
+
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/languages/python.min.js"
+      crossorigin="anonymous"
+    ></script>
+
+    <script id="search-hit-fuse-template" type="text/x-template">
+      <div class="search-hit" id="summary-{{key}}">
+        <div class="search-hit-content">
+          <div class="search-hit-name">
+            <a href="{{relpermalink}}">{{title}}</a>
+            <div class="article-metadata search-hit-type">{{type}}</div>
+            <p class="search-hit-description">{{snippet}}</p>
+          </div>
+        </div>
+      </div>
+    </script>
+
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js"
+      integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI="
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js"
+      integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U="
+      crossorigin="anonymous"
+    ></script>
+
+    <script src="/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    <script src="/en/js/wowchemy.min.722e14b8c1304206b06e131438fc10ae.js"></script>
+  </body>
+</html>
