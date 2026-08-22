@@ -80,6 +80,8 @@
       href="/css/wowchemy.15ba2f5647074856433c19e248295749.css"
     />
 
+    <link rel="stylesheet" href="/css/custom.css" />
+
     <script
       async
       src="https://www.googletagmanager.com/gtag/js?id=G-P4NRW6E6Q4"
@@ -337,7 +339,12 @@
               <span>Personal project</span>
             </div>
             <div>
-              <span>Swift, SwiftUI, SwiftData, iOS 17</span>
+              <ul class="tech-row">
+                            <li style="--tech-c:#F05138"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7.508 0c-.287 0-.573 0-.86.002-.241.002-.483.003-.724.01-.132.003-.263.009-.395.015A9.154 9.154 0 0 0 4.348.15 5.492 5.492 0 0 0 2.85.645 5.04 5.04 0 0 0 .645 2.848c-.245.48-.4.972-.495 1.5-.093.52-.122 1.05-.136 1.576a35.2 35.2 0 0 0-.012.724C0 6.935 0 7.221 0 7.508v8.984c0 .287 0 .575.002.862.002.24.005.481.012.722.014.526.043 1.057.136 1.576.095.528.25 1.02.495 1.5a5.03 5.03 0 0 0 2.205 2.203c.48.244.97.4 1.498.495.52.093 1.05.124 1.576.138.241.007.483.009.724.01.287.002.573.002.86.002h8.984c.287 0 .573 0 .86-.002.241-.001.483-.003.724-.01a10.523 10.523 0 0 0 1.578-.138 5.322 5.322 0 0 0 1.498-.495 5.035 5.035 0 0 0 2.203-2.203c.245-.48.4-.972.495-1.5.093-.52.124-1.05.138-1.576.007-.241.009-.481.01-.722.002-.287.002-.575.002-.862V7.508c0-.287 0-.573-.002-.86a33.662 33.662 0 0 0-.01-.724 10.5 10.5 0 0 0-.138-1.576 5.328 5.328 0 0 0-.495-1.5A5.039 5.039 0 0 0 21.152.645 5.32 5.32 0 0 0 19.654.15a10.493 10.493 0 0 0-1.578-.138 34.98 34.98 0 0 0-.722-.01C17.067 0 16.779 0 16.492 0H7.508zm6.035 3.41c4.114 2.47 6.545 7.162 5.549 11.131-.024.093-.05.181-.076.272l.002.001c2.062 2.538 1.5 5.258 1.236 4.745-1.072-2.086-3.066-1.568-4.088-1.043a6.803 6.803 0 0 1-.281.158l-.02.012-.002.002c-2.115 1.123-4.957 1.205-7.812-.022a12.568 12.568 0 0 1-5.64-4.838c.649.48 1.35.902 2.097 1.252 3.019 1.414 6.051 1.311 8.197-.002C9.651 12.73 7.101 9.67 5.146 7.191a10.628 10.628 0 0 1-1.005-1.384c2.34 2.142 6.038 4.83 7.365 5.576C8.69 8.408 6.208 4.743 6.324 4.86c4.436 4.47 8.528 6.996 8.528 6.996.154.085.27.154.36.213.085-.215.16-.437.224-.668.708-2.588-.09-5.548-1.893-7.992z"/></svg>Swift</li>
+                            <li>SwiftUI</li>
+                            <li>SwiftData</li>
+                            <li data-dark style="--tech-c:#000000;--tech-c-dark:#FFFFFF"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12.152 6.896c-.948 0-2.415-1.078-3.96-1.04-2.04.027-3.91 1.183-4.961 3.014-2.117 3.675-.546 9.103 1.519 12.09 1.013 1.454 2.208 3.09 3.792 3.039 1.52-.065 2.09-.987 3.935-.987 1.831 0 2.35.987 3.96.948 1.637-.026 2.676-1.48 3.676-2.948 1.156-1.688 1.636-3.325 1.662-3.415-.039-.013-3.182-1.221-3.22-4.857-.026-3.04 2.48-4.494 2.597-4.559-1.429-2.09-3.623-2.324-4.39-2.376-2-.156-3.675 1.09-4.61 1.09zM15.53 3.83c.843-1.012 1.4-2.427 1.245-3.83-1.207.052-2.662.805-3.532 1.818-.78.896-1.454 2.338-1.273 3.714 1.338.104 2.715-.688 3.559-1.701"/></svg>iOS 17</li>
+              </ul>
             </div>
           </div>
 
@@ -352,17 +359,236 @@
         <div class="article-container">
           <h3>What it is</h3>
           <p>Swadesh is an iPhone app that reminds me to call family and friends. I set how often I want to speak to each person, and it tracks who I have fallen behind on.</p>
+          <p>It is deliberately small. There is no feed, no streaks and no social layer. It answers one question: who have I not spoken to in too long.</p>
           <h3>Why I built it</h3>
           <p>I moved from Dhaka to Pennsylvania and staying in touch got harder than I expected. I wanted something that would tell me who I had not spoken to in a while.</p>
           <p>The apps I found all wanted an account and a copy of my contacts. I did not want that list living on someone else's server, so I wrote my own.</p>
-          <h3>How it works</h3>
-          <p>There is no account, no server and no sync. Everything is stored on the device.</p>
-          <p>The list is ordered by how far past its target each contact is, measured as a fraction of that contact's own target. Someone on a weekly target who I last called three weeks ago ranks above someone on a monthly target at four weeks. Because the ranking depends on the current time, it is computed in memory on every refresh.</p>
-          <p>Reminders are scheduled for an hour that falls between 9am and 9pm for me and for the person I am calling. The app starts at 10am on the due day and walks forward until it finds one. It compares minutes of the day, so time zones offset by 30 or 45 minutes work correctly. Two twelve hour windows always intersect except at an offset of exactly twelve hours, and that case is flagged and resolved in favour of the recipient.</p>
-          <p>A call is logged only after iOS confirms it opened WhatsApp or the dialler. If the handoff fails, nothing is written to the record.</p>
-          <p>iOS notification triggers fire once and are then discarded, so an ignored reminder is never repeated on its own. The app rebuilds its pending reminders on launch and on return to the foreground, which also re-resolves anything pinned to a stale time zone.</p>
+          <h3>Who comes first</h3>
+          <p>Every contact has a target: weekly for one person, monthly for another. The ranking is the time elapsed divided by that person's own target, so the list compares people on different cadences fairly.</p>
+          <figure class="fig">
+            <svg viewBox="0 0 760 268" role="img" aria-label="Contacts ranked by elapsed time divided by their own target, so a weekly contact and a monthly contact compare fairly.">
+                <defs>
+                  <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                    <path d="M0,0 L10,5 L0,10 z" class="d-arrow" />
+                  </marker>
+                  <marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                    <path d="M0,0 L10,5 L0,10 z" class="d-arrow-accent" />
+                  </marker>
+                </defs>
+                <text x="8" y="26" text-anchor="start" class="d-t-b">Ranked by elapsed &#247; target, not by date</text>
+                <text x="8" y="71" text-anchor="start" class="d-t-b">Amma</text>
+                <text x="78" y="71" text-anchor="start" class="d-t-sm">every 7 days</text>
+                <text x="170" y="71" text-anchor="start" class="d-t-sm">21 days ago</text>
+                <rect x="250" y="56" width="380.0" height="22" rx="3" class="d-box-warn" stroke-width="1.5" />
+                <text x="638.0" y="71" text-anchor="start" class="d-t-sm">3.00  overdue</text>
+                <text x="8" y="111" text-anchor="start" class="d-t-b">Nanu</text>
+                <text x="78" y="111" text-anchor="start" class="d-t-sm">every 14 days</text>
+                <text x="170" y="111" text-anchor="start" class="d-t-sm">16 days ago</text>
+                <rect x="250" y="96" width="144.39999999999998" height="22" rx="3" class="d-box-warn" stroke-width="1.5" />
+                <text x="402.4" y="111" text-anchor="start" class="d-t-sm">1.14  overdue</text>
+                <text x="8" y="151" text-anchor="start" class="d-t-b">Bhai</text>
+                <text x="78" y="151" text-anchor="start" class="d-t-sm">every 30 days</text>
+                <text x="170" y="151" text-anchor="start" class="d-t-sm">24 days ago</text>
+                <rect x="250" y="136" width="101.33333333333331" height="22" rx="3" class="d-box-accent" stroke-width="1.5" />
+                <text x="359.3333333333333" y="151" text-anchor="start" class="d-t-sm">0.80  due soon</text>
+                <text x="8" y="191" text-anchor="start" class="d-t-b">Rafi</text>
+                <text x="78" y="191" text-anchor="start" class="d-t-sm">every 7 days</text>
+                <text x="170" y="191" text-anchor="start" class="d-t-sm">2 days ago</text>
+                <rect x="250" y="176" width="36.73333333333335" height="22" rx="3" class="d-box" stroke-width="1.5" />
+                <text x="294.73333333333335" y="191" text-anchor="start" class="d-t-sm">0.29  on track</text>
+                <line x1="376.7" y1="46" x2="376.7" y2="208" class="d-line-accent" stroke-width="1.5" stroke-dasharray="4 3" />
+                <text x="376.66666666666663" y="40" text-anchor="middle" class="d-t-accent">1.0 = due</text>
+                <text x="380" y="238" text-anchor="middle" class="d-t-sm">Amma is on a weekly cadence and Bhai a monthly one, so the raw gap would rank them wrongly.</text>
+            </svg>
+            <figcaption>Figure 1. Who is most overdue, measured against each person&#8217;s own target.</figcaption>
+          </figure>
+          <p>Because the ranking depends on what time it is, it cannot be a stored sort. It is computed in memory against a single reference date that ticks once a minute and refreshes when the app comes back to the foreground, so every card on screen agrees on what now means.</p>
+          <h3>When the reminder arrives</h3>
+          <p>This is the part I spent the most time on. A reminder is useless if it wakes you, and worse if it reaches you when the person you are meant to call is asleep. So the notification time is a search, not a fixed hour.</p>
+          <figure class="fig">
+            <svg viewBox="0 0 760 252" role="img" aria-label="A reminder is scheduled only in an hour that is inside waking hours for both people. The overlap between State College and Dhaka is 9 to 11 in the morning local time.">
+                <defs>
+                  <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                    <path d="M0,0 L10,5 L0,10 z" class="d-arrow" />
+                  </marker>
+                  <marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                    <path d="M0,0 L10,5 L0,10 z" class="d-arrow-accent" />
+                  </marker>
+                </defs>
+                <text x="8" y="24" text-anchor="start" class="d-t-b">Finding an hour that is daytime at both ends</text>
+                <line x1="90.0" y1="196" x2="90.0" y2="202" class="d-line" stroke-width="1" />
+                <text x="90.0" y="218" text-anchor="middle" class="d-t-sm">00</text>
+                <line x1="168.8" y1="196" x2="168.8" y2="202" class="d-line" stroke-width="1" />
+                <text x="168.75" y="218" text-anchor="middle" class="d-t-sm">03</text>
+                <line x1="247.5" y1="196" x2="247.5" y2="202" class="d-line" stroke-width="1" />
+                <text x="247.5" y="218" text-anchor="middle" class="d-t-sm">06</text>
+                <line x1="326.2" y1="196" x2="326.2" y2="202" class="d-line" stroke-width="1" />
+                <text x="326.25" y="218" text-anchor="middle" class="d-t-sm">09</text>
+                <line x1="405.0" y1="196" x2="405.0" y2="202" class="d-line" stroke-width="1" />
+                <text x="405.0" y="218" text-anchor="middle" class="d-t-sm">12</text>
+                <line x1="483.8" y1="196" x2="483.8" y2="202" class="d-line" stroke-width="1" />
+                <text x="483.75" y="218" text-anchor="middle" class="d-t-sm">15</text>
+                <line x1="562.5" y1="196" x2="562.5" y2="202" class="d-line" stroke-width="1" />
+                <text x="562.5" y="218" text-anchor="middle" class="d-t-sm">18</text>
+                <line x1="641.2" y1="196" x2="641.2" y2="202" class="d-line" stroke-width="1" />
+                <text x="641.25" y="218" text-anchor="middle" class="d-t-sm">21</text>
+                <line x1="720.0" y1="196" x2="720.0" y2="202" class="d-line" stroke-width="1" />
+                <text x="720.0" y="218" text-anchor="middle" class="d-t-sm">00</text>
+                <line x1="90.0" y1="196" x2="720.0" y2="196" class="d-line" stroke-width="1.5" />
+                <text x="405" y="238" text-anchor="middle" class="d-t-sm">your local clock</text>
+                <text x="8" y="78" text-anchor="start" class="d-t-b">You</text>
+                <text x="8" y="94" text-anchor="start" class="d-t-sm">State College</text>
+                <rect x="326.2" y="62" width="315.0" height="30" rx="4" class="d-box-accent" stroke-width="1.5" />
+                <text x="483.75" y="82" text-anchor="middle" class="d-t-sm">awake  09:00 &#8211; 21:00</text>
+                <text x="8" y="144" text-anchor="start" class="d-t-b">Amma</text>
+                <text x="8" y="160" text-anchor="start" class="d-t-sm">Dhaka, +10h</text>
+                <rect x="90.0" y="128" width="288.8" height="30" rx="4" class="d-box-accent" stroke-width="1.5" />
+                <rect x="693.8" y="128" width="26.2" height="30" rx="4" class="d-box-accent" stroke-width="1.5" />
+                <text x="234.375" y="148" text-anchor="middle" class="d-t-sm">awake  09:00 &#8211; 21:00 in Dhaka</text>
+                <rect x="326.2" y="56" width="52.5" height="108" rx="4" class="d-box-warn" fill-opacity="0.35" stroke-width="1.5" />
+                <text x="352.5" y="46" text-anchor="middle" class="d-t-warn">overlap</text>
+                <line x1="352.5" y1="56" x2="352.5" y2="196" class="d-line-accent" stroke-width="2" />
+                <circle cx="352.5" cy="196" r="5" class="d-box-accent" stroke-width="2" />
+                <text x="366.5" y="182" text-anchor="start" class="d-t-accent">reminder at 10:00 for you, 20:00 for her</text>
+            </svg>
+            <figcaption>Figure 2. A reminder lands only where both waking windows overlap.</figcaption>
+          </figure>
+          <p>The search starts at 10:00 on the due day and walks forward hour by hour until it finds a slot inside the 9am to 9pm window for both people. It compares minutes of the day, so time zones offset by thirty or forty five minutes work correctly. It never returns a time in the past, so someone already overdue gets reminded today instead of never.</p>
+          <p>Two twelve hour windows on a twenty four hour circle always intersect, with exactly one exception: an offset of precisely twelve hours, where they are perfect complements. That single case is flagged and resolved in the recipient's favour, since a reminder has to reach someone who is awake.</p>
+          <h3>Logging a call honestly</h3>
+          <p>Marking someone as contacted is the one piece of state that matters, so the app only writes it once iOS confirms it actually opened WhatsApp or the dialler.</p>
+          <figure class="fig">
+            <svg viewBox="0 0 760 250" role="img" aria-label="A call is recorded only after iOS confirms it opened WhatsApp or the dialler. A failed hand-off writes nothing.">
+                <defs>
+                  <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                    <path d="M0,0 L10,5 L0,10 z" class="d-arrow" />
+                  </marker>
+                  <marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                    <path d="M0,0 L10,5 L0,10 z" class="d-arrow-accent" />
+                  </marker>
+                </defs>
+                <rect x="20" y="96" width="150" height="50" rx="6" class="d-box-accent" stroke-width="1.5" />
+                <text x="95" y="116" text-anchor="middle" class="d-t-b">Tap a contact</text>
+                <text x="95" y="133" text-anchor="middle" class="d-t-sm">WhatsApp or call</text>
+                <rect x="215" y="96" width="165" height="50" rx="6" class="d-box" stroke-width="1.5" />
+                <text x="297" y="116" text-anchor="middle" class="d-t-b">Build the number</text>
+                <text x="297" y="133" text-anchor="middle" class="d-t-sm">sanitised on the way out</text>
+                <rect x="425" y="96" width="150" height="50" rx="6" class="d-box" stroke-width="1.5" />
+                <text x="500" y="116" text-anchor="middle" class="d-t-b">iOS opens it?</text>
+                <text x="500" y="133" text-anchor="middle" class="d-t-sm">canOpenURL, then open</text>
+                <rect x="620" y="30" width="130" height="50" rx="6" class="d-box" stroke-width="1.5" />
+                <text x="685" y="50" text-anchor="middle" class="d-t-b">Yes</text>
+                <text x="685" y="67" text-anchor="middle" class="d-t-sm">log the call</text>
+                <rect x="620" y="162" width="130" height="50" rx="6" class="d-box-warn" stroke-width="1.5" />
+                <text x="685" y="182" text-anchor="middle" class="d-t-b">No</text>
+                <text x="685" y="199" text-anchor="middle" class="d-t-sm">nothing written</text>
+                <line x1="170" y1="121" x2="213" y2="121" class="d-line-accent" stroke-width="1.5" marker-end="url(#aha)" />
+                <line x1="380" y1="121" x2="423" y2="121" class="d-line-accent" stroke-width="1.5" marker-end="url(#aha)" />
+                <path d="M 575 110 H 598 V 55 H 618" class="d-line-accent" stroke-width="1.5" marker-end="url(#aha)" />
+                <path d="M 575 132 H 598 V 187 H 618" class="d-line" stroke-width="1.5" marker-end="url(#ah)" />
+                <text x="685" y="100" text-anchor="middle" class="d-t-sm">the reminder is</text>
+                <text x="685" y="114" text-anchor="middle" class="d-t-sm">then re-armed</text>
+                <text x="380" y="236" text-anchor="middle" class="d-t-sm">A failed hand-off never fakes a conversation, so the app cannot quietly lose track of someone.</text>
+            </svg>
+            <figcaption>Figure 3. A call is recorded only after iOS confirms the hand-off.</figcaption>
+          </figure>
+          <p>The call path throws before touching the model if the URL cannot be opened, so a failed hand-off never records a conversation that did not happen. The URL opener is injected rather than hard-wired, which is what makes that path testable without leaving the app.</p>
+          <p>Phone numbers are stored exactly as you typed them and sanitised only on the way out. The formatter folds non-ASCII digits, including Bengali and Arabic-Indic numerals, rewrites a leading double zero to a plus, and returns nothing at all rather than a bare country code when there is no dialable number left.</p>
+          <h3>Reminders that re-arm themselves</h3>
+          <p>An iOS notification trigger fires once and is then consumed. Ignore a reminder and nothing brings it back, which would leave the app permanently silent about exactly the people it exists to nag me about.</p>
+          <p>So a reconciliation pass runs on launch and on every return to the foreground. It rebuilds pending reminders, and treats a trigger pinned to a stale time zone as expired, so travelling re-resolves the calling window. Each contact carries an explicit identifier that doubles as the notification identifier, so re-arming replaces the old request instead of stacking duplicates.</p>
+          <h3>Where it all runs</h3>
+          <p>There is no account, no server and no sync. The contact list, the targets and the history live in a local database on the phone and never leave it.</p>
+          <figure class="fig">
+            <svg viewBox="0 0 760 300" role="img" aria-label="Everything runs on the phone. There is no account, no server and no sync.">
+                <defs>
+                  <marker id="ah" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                    <path d="M0,0 L10,5 L0,10 z" class="d-arrow" />
+                  </marker>
+                  <marker id="aha" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+                    <path d="M0,0 L10,5 L0,10 z" class="d-arrow-accent" />
+                  </marker>
+                </defs>
+                <rect x="20" y="40" width="480" height="220" rx="8" class="d-zone" stroke-width="1.5" />
+                <text x="36" y="62" text-anchor="start" class="d-t-accent">Your iPhone</text>
+                <rect x="48" y="76" width="200" height="46" rx="6" class="d-box-accent" stroke-width="1.5" />
+                <text x="148" y="96" text-anchor="middle" class="d-t-b">Dashboard</text>
+                <text x="148" y="113" text-anchor="middle" class="d-t-sm">cards, sorted by urgency</text>
+                <rect x="272" y="76" width="200" height="46" rx="6" class="d-box" stroke-width="1.5" />
+                <text x="372" y="96" text-anchor="middle" class="d-t-b">ContactNode</text>
+                <text x="372" y="113" text-anchor="middle" class="d-t-sm">SwiftData, on disk</text>
+                <rect x="48" y="146" width="200" height="46" rx="6" class="d-box" stroke-width="1.5" />
+                <text x="148" y="166" text-anchor="middle" class="d-t-b">CallManager</text>
+                <text x="148" y="183" text-anchor="middle" class="d-t-sm">deep links, logging</text>
+                <rect x="272" y="146" width="200" height="46" rx="6" class="d-box" stroke-width="1.5" />
+                <text x="372" y="166" text-anchor="middle" class="d-t-b">NotificationManager</text>
+                <text x="372" y="183" text-anchor="middle" class="d-t-sm">one reminder per contact</text>
+                <rect x="160" y="208" width="200" height="40" rx="6" class="d-box" stroke-width="1.5" />
+                <text x="260" y="233" text-anchor="middle" class="d-t-b">ReminderTimeResolver</text>
+                <line x1="250" y1="99" x2="270" y2="99" class="d-line" stroke-width="1.5" marker-end="url(#ah)" />
+                <line x1="250" y1="169" x2="270" y2="169" class="d-line" stroke-width="1.5" marker-end="url(#ah)" />
+                <path d="M 148 124 V 144" class="d-line" stroke-width="1.5" marker-end="url(#ah)" />
+                <path d="M 372 124 V 144" class="d-line" stroke-width="1.5" marker-end="url(#ah)" />
+                <path d="M 372 194 V 228 H 362" class="d-line" stroke-width="1.5" marker-end="url(#ah)" />
+                <rect x="570" y="110" width="170" height="76" rx="8" class="d-box-warn" stroke-width="1.5" />
+                <text x="655" y="138" text-anchor="middle" class="d-t">No account</text>
+                <text x="655" y="158" text-anchor="middle" class="d-t">No server</text>
+                <text x="655" y="178" text-anchor="middle" class="d-t">No sync</text>
+                <path d="M 505 148 H 560" class="d-line" stroke-width="1.5" marker-end="url(#ah)" />
+                <line x1="522" y1="136" x2="546" y2="160" class="d-x" stroke-width="2.5" />
+                <line x1="546" y1="136" x2="522" y2="160" class="d-x" stroke-width="2.5" />
+                <text x="655" y="208" text-anchor="middle" class="d-t-sm">nothing leaves the device</text>
+            </svg>
+            <figcaption>Figure 4. Everything runs on the phone.</figcaption>
+          </figure>
           <h3>Status</h3>
-          <p>In daily use. Contacts, targets, the dashboard, notifications and importing from the iOS address book are working. The cadence and sorting logic has no UI or database dependencies, so it runs under a test script without Xcode.</p>
+          <p>In daily use. Contacts, targets, the dashboard, notifications and importing from the iOS address book are working. The cadence and sorting logic has no UI or database dependencies, so it runs under a test script without Xcode, which is how I check it.</p>
+
+          <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-10">
+              <div class="row">
+                <div class="col-12 col-md-3 pub-row-heading">Type</div>
+                <div class="col-12 col-md-9">Personal project, in progress</div>
+              </div>
+            </div>
+            <div class="col-md-1"></div>
+          </div>
+          <div class="d-md-none space-below"></div>
+
+          <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-10">
+              <div class="row">
+                <div class="col-12 col-md-3 pub-row-heading">Stack</div>
+                <div class="col-12 col-md-9">Swift, SwiftUI, SwiftData, iOS 17</div>
+              </div>
+            </div>
+            <div class="col-md-1"></div>
+          </div>
+          <div class="d-md-none space-below"></div>
+
+          <div class="row">
+            <div class="col-md-1"></div>
+            <div class="col-md-10">
+              <div class="row">
+                <div class="col-12 col-md-3 pub-row-heading">Data</div>
+                <div class="col-12 col-md-9">On device only, no network calls</div>
+              </div>
+            </div>
+            <div class="col-md-1"></div>
+          </div>
+          <div class="d-md-none space-below"></div>
+
+          <div class="space-below"></div>
+
+          <div class="article-tags">
+            <a class="badge badge-light">iOS</a>
+            <a class="badge badge-light">SwiftUI</a>
+            <a class="badge badge-light">SwiftData</a>
+            <a class="badge badge-light">Privacy by design</a>
+            <a class="badge badge-light">Notifications</a>
+          </div>
 
           <div class="article-widget content-widget-hr">
             <h3>Related</h3>
