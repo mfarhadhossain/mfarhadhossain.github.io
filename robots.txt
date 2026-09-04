@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: /uploads/AgentX_Hack_Clontract_paper.pdf
+Allow: /
 
 Sitemap: https://mfarhadhossain.github.io/sitemap.xml
