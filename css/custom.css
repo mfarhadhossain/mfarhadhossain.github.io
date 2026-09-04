@@ -363,3 +363,23 @@
 .dark .tech-row li[data-dark] svg {
     fill: var(--tech-c-dark, #ffffff);
 }
+
+/* The search overlay heading was a second <h1> on every page. It is now an
+   <h2 class="h1">, so restore what .search-header h1 used to give it. */
+.search-header h2 {
+    margin: 0;
+    line-height: 1;
+}
+
+/* The homepage name is now the page's single <h1>. Keep the look the theme
+   gave it as an <h2>. */
+.portrait-title h1 {
+    font-size: 1.75em;
+    font-weight: 300;
+    color: #000;
+    margin: 0;
+}
+
+.dark .portrait-title h1 {
+    color: rgba(255, 255, 255, 0.9);
+}

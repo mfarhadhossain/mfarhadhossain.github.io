@@ -14,7 +14,7 @@
 
     <meta
             name="description"
-            content="Farhad Hossain - PhD student in Informatics at Penn State's College of IST. Researching usable security and privacy for LLM and agentic systems, human-centered AI safety, and personhood credentials."
+            content="PhD student in Informatics at Penn State's College of IST, working on usable security and privacy for LLM and agentic systems."
     />
 
     <link
@@ -126,7 +126,6 @@
         document.addEventListener('click', onClickCallback, false);
     </script>
 
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
     <link rel="manifest" href="/manifest.webmanifest"/>
 
@@ -205,7 +204,7 @@
         <section class="search-header">
             <div class="row no-gutters justify-content-between mb-3">
                 <div class="col-6">
-                    <h1>Search</h1>
+                    <h2 class="h1">Search</h2>
                 </div>
                 <div class="col-6 col-search-close">
                     <a class="js-search" href="#" aria-label="Close"
@@ -371,7 +370,7 @@
                         />
 
                         <div class="portrait-title">
-                            <h2>Farhad Hossain</h2>
+                            <h1>Farhad Hossain</h1>
                             <h3>
                                 PhD Student at
                                 <a
@@ -1053,6 +1052,7 @@
                         </div>
                     </div>
 
+                                        <div class="collapse" id="more-publications">
                     <div class="pub-list-item" style="margin-bottom: 1rem">
                         <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
@@ -1168,6 +1168,23 @@
                             </a>
                         </div>
                     </div>
+                    </div>
+
+                    <p class="mt-2">
+                        <button
+                                class="research-toggle"
+                                type="button"
+                                data-toggle="collapse"
+                                data-target="#more-publications"
+                                aria-expanded="false"
+                                aria-controls="more-publications"
+                        >
+                            <span class="research-toggle-more">Show more publications</span>
+                            <span class="research-toggle-less">Show fewer publications</span>
+                            <i class="fas fa-chevron-down research-toggle-icon" aria-hidden="true"></i>
+                        </button>
+                    </p>
+
 
 </div>
             </div>
