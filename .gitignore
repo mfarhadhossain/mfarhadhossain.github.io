@@ -11,3 +11,12 @@ github_support_request.txt
 
 # Superseded CV - must not be republished at a public URL
 /uploads/CV_FARHAD_HOSSAIN_Outdate.pdf
+
+# LaTeX build artifacts
+CV/print/build/
+
+# Local-only reviewer prompt (contains full CV text)
+CV/review-prompt.md
+
+# Scratch renders from review tooling (repo-root only)
+/tmp/
