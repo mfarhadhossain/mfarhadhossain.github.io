@@ -14,7 +14,8 @@ This is Farhad Hossain's academic portfolio, deployed as a GitHub Pages static s
 |------|---------|
 | `index.html` | Main homepage — the entire live site apart from the two publication pages |
 | `uploads/` | PDFs linked from the site (CV, papers) |
-| `CV/main.tex` | LaTeX source for the CV. Compile and export to `uploads/CV_FARHAD_HOSSAIN_AUG26.pdf` |
+| `CV/print/` | LaTeX source for the CV set. Three variants share `preamble.tex` + `sections/`: `cv-web` (published to `uploads/`), `cv-industry` (1-page print handout), `cv-academic` (2-page print). Build all three with `CV/print/build.sh`, which enforces the page caps. |
+| `CV/main.tex` | Older standalone CV source, superseded by `CV/print/` and drifted from it. Not the source of the published PDF. |
 | `robots.txt` | Search engine crawl directives |
 | `sitemap.xml` | SEO sitemap (update when adding/removing public pages) |
 | `.nojekyll` | Disables Jekyll processing — the site is pre-generated, nothing to build |
