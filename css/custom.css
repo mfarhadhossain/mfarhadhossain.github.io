@@ -372,12 +372,13 @@
 }
 
 /* The homepage name is now the page's single <h1>. Keep the look the theme
-   gave it as an <h2>. */
+   gave it as an <h2>. The theme's h2 inherited Bootstrap's heading margins;
+   zeroing them here left the name butted against the avatar's bottom edge. */
 .portrait-title h1 {
     font-size: 1.75em;
     font-weight: 300;
     color: #000;
-    margin: 0;
+    margin: 0.85rem 0 0.15rem;
 }
 
 .dark .portrait-title h1 {
