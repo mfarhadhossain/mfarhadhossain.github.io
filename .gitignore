@@ -20,3 +20,7 @@ CV/review-prompt.md
 
 # Scratch renders from review tooling (repo-root only)
 /tmp/
+
+# Local agent notes (not published)
+CLAUDE.md
+AGENTS.md
